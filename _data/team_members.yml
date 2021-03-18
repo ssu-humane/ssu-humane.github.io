@@ -1,13 +1,11 @@
 - name: Kunwoo Park
   photo: Milan.jpg
-  info: Assistant professor, started March 2021
+  info: Assistant professor. See <a href="http://bywords.github.io">openings</a> for more info
   email: kunwoo.park@ssu.ac.kr
-  number_educ: 5
+  number_educ: 4
   education1: Master with Meeyoung Cha, KAIST
-  education2: PhD with Meeyoung Cha, KAIST
-  education3: Postdoc, KAIST
-  education4: Postdoc with Sanjay Chawla, Qatar Computing Research Institute
-  education5: Postdoc with Jungseock Joo, University of California Los Angeles
+  education1: PhD in Web Science, School of Computing, KAIST
+  education2: Postdoc at KAIST, Qatar Computing Research Institute, and University of California Los Angeles
 
 - name: "This could be you !"
   photo: rock.jpg

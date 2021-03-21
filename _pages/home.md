@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Human-centered Data Science Laboratory(인간 중심 데이터 과학 연구실) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for a better world.
+Human-centered Data Science Laboratory(인간 중심 데이터 과학 연구실, 휴먼 랩) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for a better world.
 
 We are the HUMAN-CENTERED research group from three perspectives:
 1. Problem and Data: we tackle human-centered problems that emerge from human behaviors and social interactions, and to the end, we focus on human-generated data such as behavioral records, text, images, etc. 

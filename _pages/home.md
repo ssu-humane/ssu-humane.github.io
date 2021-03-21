@@ -1,19 +1,19 @@
 ---
-title: "HUMAN Lab - Home"
+title: "HUMANE Lab - Home"
 layout: homelay
-excerpt: "HUMAN Lab. at Soongsil University."
+excerpt: "HUMANE Lab at Soongsil University."
 sitemap: false
 permalink: /
 ---
 
-Human-centered Data Science Laboratory(인간 중심 데이터 과학 연구실, 휴먼 랩) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for a better world.
+Human-centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for a better world.
 
 We are the HUMAN-CENTERED research group from three perspectives:
 1. Problem and Data: we tackle human-centered problems that emerge from human behaviors and social interactions, and to the end, we focus on human-generated data such as behavioral records, text, images, etc. 
 2. Method: we study technical components in data-driven solutions that facilitate human usages, such as interpretability in deep learning and causal inference approaches.
-3. Member: we aim at academic discussions based on horizontal relationships between members. Each student is recommended to identify and tackle self-motivated problems.
+3. Member: we respect diversity of the members and participation of underrepresented groups are encouraged. 
 
-Currently, HUMAN Lab is actively working on fascinating real-world projects addressing human-centered problems in social media environments such as Instagram, Twitch, Twitter, and Facebook through multimodal deep learning technologies. Previous research was published at premier international conferences (AAAI, WWW, CSCW, etc.) and journals (Journal of Advertising, IEEE Access).
+Currently, HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in social media environments such as Instagram, Twitch, Twitter, and Facebook through multimodal deep learning technologies. Previous research was published at premier international conferences (AAAI, WWW, CSCW, etc.) and journals (Journal of Advertising, IEEE Access).
 
  **We are looking for passionate new graduate/undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **.** **We(I) are waiting for you!**
 

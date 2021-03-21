@@ -10,7 +10,7 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-## Postdoc
+## Postdocs
 We currently don't have an open position for postdocs, but please feel free to reach me for potential future openings or collaboration opportunities.
 
 ## Graduate students

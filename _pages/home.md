@@ -1,12 +1,17 @@
 ---
-title: "Allan Lab - Home"
+title: "HUMAN Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "HUMAN Lab. at Soongsil University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+숭실대학교 인간 중심 데이터 과학 연구실(Human-cetered Data Science Laboratory)은 실제 문제 해결을 위한 데이터 과학 및 인공지능 기술을 연구하여 더 좋은 세상을 만들기 위한 사람들이 모일 곳입니다.
+
+우리 연구실은 크게 세 가지 관점에서 인간 중심(Human-cetered)적이길 목표합니다.
+1. 다루는 문제와 데이터: 사람과 사람의 관계로 나타나는 가짜 뉴스, 정보 편향 등 사회적 문제를 데이터 기반 방법으로 해결하며, 이를 위해 사람에 의해 생성되는 행동 기록, 텍스트, 이미지 등을 분석합니다.
+2. 방법론: 데이터 과학 및 인공지능 기술을 사용하는 사람의 관점에서 유용하게 하기 위한 해석 가능성, 인과 관계 추론 등의 기술적 요소를 연구합니다.
+3. 구성원 중심: 교수 및 학생 상호간 수평적 관계에 기반한 학술 토론을 지향하며, 스스로 관심 있는 문제를 찾고 해결하길 권장합니다.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -56,21 +61,5 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
+현재 딥러닝 기반 다종 데이터 처리 기술을 바탕으로 하여 인스타그램, 트위치, 트위터, 페이스북 등 소셜 미디어 환경에서 나타나는 다양한 문제를 해결하는 연구를 활발히 수행하고 있습니다. **대학원 진학 및 학부연구생 참여에 관심있는 학생은** [[링크]]({{ site.url }}{{ site.baseurl }}/vacancies)**를 확인해 주세요!**
 
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>

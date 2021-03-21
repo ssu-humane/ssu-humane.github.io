@@ -13,9 +13,7 @@ We are the HUMAN-CENTERED research group from three perspectives:
 2. Method: we study technical components in data-driven solutions that facilitate human usages, such as interpretability in deep learning and causal inference approaches.
 3. Member: we respect diversity of the members and participation of underrepresented groups are encouraged. 
 
-Currently, HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in social media environments such as Instagram, Twitch, Twitter, and Facebook through multimodal deep learning technologies. We are collaborating with scholars in international organizations such as UCLA, Stanford, Singapore Management Univ. and top-tier domestic institutes such as KAIST and IBS.
-
-Previous research was published at premier international conferences (AAAI, WWW, CSCW, etc.) and journals (Journal of Advertising, IEEE Access).
+Currently, HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in social media environments such as Instagram, Twitch, Twitter, and Facebook through multimodal deep learning technologies. We are collaborating with scholars in international organizations such as UCLA, Stanford, Singapore Management Univ. and top-tier domestic institutes such as KAIST and IBS. Previous research has been published at premier conference venues (AAAI, WWW, CSCW, etc.) and journals (Journal of Advertising, IEEE Access).
 
  **We are looking for passionate new graduate students/undergraduate interns to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **.** **We(I) are waiting for you!**
 

@@ -16,7 +16,7 @@
     display: Journal of Advertising, 2021
   highlight: 1
 
- - title: "How-to present news on social media: A causal analysis of editing news headlines for boosting user engagement"
+- title: "How-to present news on social media: A causal analysis of editing news headlines for boosting user engagement"
   image: park_icwsm21.png
   description: To reach a broader audience and optimize traffic toward news articles, media outlets commonly run social media accounts and share their content with a short text summary. Despite its importance of writing a compelling message in sharing articles, research community does not own a sufficient level of understanding of what kinds of editing strategies are effective in promoting audience engagement. In this study, we aim to fill the gap by analyzing the current practices of media outlets using a data-driven approach. We first build a parallel corpus of original news articles and their corresponding tweets that were shared by eight media outlets. Then, we explore how those media edited tweets against original headlines, and the effects would be. To estimate the effects of editing news headlines for social media sharing in audience engagement, we present a systematic analysis that incorporates a causal inference technique with deep learning; using propensity score matching, it allows for estimating potential (dis-) advantages of an editing style compared to counterfactual cases where a similar news article is shared with a different style. According to the analyses of various editing styles, we report common and differing effects of the styles across the outlets. To understand the effects of various editing styles, media outlets could apply our easy-to-use tool by themselves.
   authors: Kunwoo Park, Haewoon Kwak, Jisun An, Sanjay Chawla
@@ -25,7 +25,7 @@
     display: International AAAI Conference on Web and Social Media (ICWSM), 2021
   highlight: 1
 
- - title: "BaitWatcher: A Lightweight Web Interface for the Detection of Incongruent News Headlines"
+- title: "BaitWatcher: A Lightweight Web Interface for the Detection of Incongruent News Headlines"
   image: park_fndm20.png
   description: In digital environments where substantial amounts of information are shared online, news headlines play essential roles in the selection and diffusion of news articles. Some news articles attract audience attention by showing exaggerated or misleading headlines. This study addresses the headline incongruity problem, in which a news headline makes claims that are either unrelated or opposite to the contents of the corresponding article. We present BaitWatcher, which is a lightweight web interface that guides readers in estimating the likelihood of incongruence in news articles before clicking on the headlines. BaitWatcher utilizes a hierarchical recurrent encoder that efficiently learns complex textual representations of a news headline and its associated body text. For training the model, we construct a million scale dataset of news articles, which we also release for broader research use. Based on the results of a focus group interview, we discuss the importance of developing an interpretable AI agent for the design of a better interface for mitigating the effects of online misinformation.
   authors: Kunwoo Park, Taegyun Kim, Seunghyun Yoon, Meeyoung Cha, Kyomin Jung
@@ -34,7 +34,7 @@
     display: Disinformation, Misinformation, and Fake News in Social Media. 2020
   highlight: 1
   
- - title: '"Trust Me, I Have a Ph. D.": A Propensity Score Analysis on the Halo Effect of Disclosing One's Offline Social Status in Online Communities'
+- title: '"Trust Me, I Have a Ph. D.": A Propensity Score Analysis on the Halo Effect of Disclosing One's Offline Social Status in Online Communities'
   image: park_icwsm20.png
   description: Online communities adopt various reputation schemes to measure content quality. This study analyzes the effect of a new reputation scheme that exposes one's offline social status, such as an education degree, within an online community. We study two Reddit communities that adopted this scheme, whereby posts include tags identifying education status referred to as flairs, and we examine how the “transferred” social status affects the interactions among the users. We computed propensity scores to test whether flairs give ad-hoc authority to the adopters while minimizing the effects of confounding variables such as topics of content. The results show that exposing academic degrees is likely to lead to higher audience votes as well as larger discussion size, compared to the users without the disclosed identities, in a community that covers peer-reviewed scientific articles. In another community with a focus on casual science topics, exposing mere academic degrees did not obtain such benefits. Still, the users with the highest degree (eg, Ph. D. or MD) were likely to receive more feedback from the audience. These findings suggest that reputation schemes that link the offline and online worlds could induce halo effects on feedback behaviors differently depending upon the community culture. We discuss the implications of this research for the design of future reputation mechanisms.
   authors: Kunwoo Park, Haewoon Kwak, Hyunho Song, Meeyoung Cha

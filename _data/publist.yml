@@ -16,14 +16,6 @@
     display: Journal of Advertising, 2021
   highlight: 1
 
-- title: "Understanding Gender Stereotypes and Electoral Success from Visual Self-presentations of Politicians in Social Media"
-  description: Social media have been widely used as a platform for political communication, promoting firsthand dialogue between politicians and the public. This paper studies the role of visual self-presentation in social media in political campaigns with a primary focus on gender stereotypical cues exhibited in Facebook timeline posts of 562 candidates in the 2018 U.S. general elections. We train a convolutional neural network (CNN) that infers gender stereotypes from the photographs based on crowdsourced annotations. Using regression analysis, we find that masculine traits are predictive factors for winning elections for both gender and parties. In contrast, feminine traits are not correlated with electoral success. Prediction experiments show that the visual traits on gender stereotypes can predict the election outcomes with an accuracy of 0.739, which was better than the performance (0.724) of making a direct prediction from the raw photographs. Our study demonstrates that the automated visual content analysis can reliably measure subtle, emotional, and subjective personal trait dimensions from political images, thereby enabling systematic investigations on multi-modal political communication via social media.
-  authors: Danni Chen, Kunwoo Park, Jungseock Joo
-  link:
-    url: https://dl.acm.org/doi/abs/10.1145/3423268.3423583
-    display:  ACM Multimedia Workshop on Media Analytics for Societal Trends (MMW), 2020
-  highlight: 0
-  
  - title: "How-to present news on social media: A causal analysis of editing news headlines for boosting user engagement"
   image: park_icwsm21.png
   description: To reach a broader audience and optimize traffic toward news articles, media outlets commonly run social media accounts and share their content with a short text summary. Despite its importance of writing a compelling message in sharing articles, research community does not own a sufficient level of understanding of what kinds of editing strategies are effective in promoting audience engagement. In this study, we aim to fill the gap by analyzing the current practices of media outlets using a data-driven approach. We first build a parallel corpus of original news articles and their corresponding tweets that were shared by eight media outlets. Then, we explore how those media edited tweets against original headlines, and the effects would be. To estimate the effects of editing news headlines for social media sharing in audience engagement, we present a systematic analysis that incorporates a causal inference technique with deep learning; using propensity score matching, it allows for estimating potential (dis-) advantages of an editing style compared to counterfactual cases where a similar news article is shared with a different style. According to the analyses of various editing styles, we report common and differing effects of the styles across the outlets. To understand the effects of various editing styles, media outlets could apply our easy-to-use tool by themselves.
@@ -49,7 +41,68 @@
   link:
     url: https://ojs.aaai.org/index.php/ICWSM/article/view/7321
     display: International AAAI Conference on Web and Social Media (ICWSM), 2020
-  highlight: 0
+  highlight: 1
+  
+- title: "Detecting incongruity between news headline and body text via a deep hierarchical encoder"
+  image: yoon_aaai19.png
+  description: Some news headlines mislead readers with overrated or false information, and identifying them in advance will better assist readers in choosing proper news stories to consume. This research introduces million-scale pairs of news headline and body text dataset with incongruity label, which can uniquely be utilized for detecting news stories with misleading headlines. On this dataset, we develop two neural networks with hierarchical architectures that model a complex textual representation of news articles and measure the incongruity between the headline and the body text. We also present a data augmentation method that dramatically reduces the text input size a model handles by independently investigating each paragraph of news stories, which further boosts the performance. Our experiments and qualitative evaluations demonstrate that the proposed methods outperform existing approaches and efficiently detect news stories with misleading headlines in the real world.
+  authors: Seunghyun Yoon*, Kunwoo Park*, Joongbo Shin, Hongjun Lim, Seungpil Won, Meeyoung Cha, Kyomin Jung
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/3756
+    display:  International AAAI Conference on Artificial Intelligence (AAAI), 2019.
+  highlight: 1
 
+- title: "Positivity Bias in Customer Satisfaction Ratings"
+  image: park_www18.png
+  description: Customer ratings are valuable sources to understand their satisfaction and are critical for designing better customer experiences and recommendations. The majority of customers, however, do not respond to rating surveys, which makes the result less representative. To understand overall satisfaction, this paper aims to investigate how likely customers without responses had satisfactory experiences compared to those respondents. To infer customer satisfaction of such unlabeled sessions, we propose models using recurrent neural networks (RNNs) that learn continuous representations of unstructured text conversation. By analyzing online chat logs of over 170,000 sessions from Samsung's customer service department, we make a novel finding that while labeled sessions contributed by a small fraction of customers received overwhelmingly positive reviews, the majority of unlabeled sessions would have received lower ratings by customers. The data analytics presented in this paper not only have practical implications for helping detect dissatisfied customers on live chat services but also make theoretical contributions on discovering the level of biases in online rating platforms.
+  authors: Kunwoo Park, Meeyoung Cha, Eunhee Rhim
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3184558.3186579
+    display:  The Web Conference (WWW), 2018.
+  highlight: 1
 
+- title: "Achievement and Friends: Key Factors of Player Retention Vary Across Player Levels in Online Multiplayer Games"
+  image: park_www17.png
+  description: Retaining players over an extended period of time is a long-standing challenge in game industry. Significant effort has been paid to understanding what motivates players enjoy games. While individuals may have varying reasons to play or abandon a game at different stages within the game, previous studies have looked at the retention problem from a snapshot view. This study, by analyzing in-game logs of 51,104 distinct individuals in an online multiplayer game, uniquely offers a multifaceted view of the retention problem over the players' virtual life phases. We find that key indicators of longevity change with the game level. Achievement features are important for players at the initial to the advanced phases, yet social features become the most predictive of longevity once players reach the highest level offered by the game. These findings have theoretical and practical implications for designing online games that are adaptive to meeting the players' needs.
+  authors: Kunwoo Park, Meeyoung Cha, Haewoon Kwak, Kuan-Ta Chen
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3041021.3054176
+    display: International World Wide Web Conference (WWW), 2017.
+  highlight: 1
 
+- title: "Persistent Sharing of Fitness App Status on Twitter"
+  image: park_cscw16.png
+  description: As the world becomes more digitized and interconnected, information that was once considered to be private such as one's health status is now being shared publicly. To understand this new phenomenon better, it is crucial to study what types of health information are being shared on social media and why, as well as by whom. In this paper, we study the traits of users who share their personal health and fitness related information on social media by analyzing fitness status updates that MyFitnessPal users have shared via Twitter. We investigate how certain features like user profile, fitness activity, and fitness network in social media can potentially impact the long-term engagement of fitness app users. We also discuss implications of our findings to achieve a better retention of these users and to promote more sharing of their status updates.
+  authors: Kunwoo Park, Ingmar Weber, Meeyoung Cha, Chul Lee
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/2818048.2819921
+    display: ACM International Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), 2016.
+  highlight: 1
+  
+- title: "Mining the Minds of Customers from Online Chat Logs"
+  image: park_cikm15.png
+  description: This study investigates factors that may determine satisfaction in customer service operations. We utilized more than 170,000 online chat sessions between customers and agents to identify characteristics of chat sessions that incurred dissatisfying experience. Quantitative data analysis suggests that sentiments or moods conveyed in online conversation are the most predictive factor of perceived satisfaction. Conversely, other session related meta data (such as that length, time of day, and response time) has a weaker correlation with user satisfaction. Knowing in advance what can predict satisfaction allows customer service staffs to identify potential weaknesses and improve the quality of service for better customer experience.
+  authors: Kunwoo Park, Jaewoo Kim, Jaram Park, Meeyoung Cha, Jiin Nam, Seunghyun Yoon, Eunhee Rhim
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/2806416.2806621
+    display: ACM International Conference on Information and Knowledge Management (CIKM), 2015.
+  highlight: 1
+  
+- title: "Mood and weather: Feeling the heat?"
+  image: park_icwsm13.png
+  description: The notion that weather plays a significant role in determininga person’s mood is empirically beyond doubt, but quantifyingthe relationship on a large scale has traditionally beenhampered by difficulties in measuring people’s sentiments. Inthis paper we present the relationship between weather andthe US residents’ sentiments from Twitter data and nationwidemeteorological records. We measure how temperature, humidity, and atmospheric pressure correlate with people’smoods, demonstrating the potential of large-scale online datain humanities fields such as psychology. We also providethese results with infographics, which can help the public understandscientific results easily.
+  authors: Kunwoo Park, Seonggyu Lee, Eunae Kim, Minjee Park, Juyong Park, Meeyoung Cha
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/14451
+    display: International AAAI Conference on Artificial Intelligence (AAAI), 2019.
+  highlight: 1
+  
+- title: "Gender swapping and user behaviors in online social games"
+  image: lou_www13.png
+  description: Modern Massively Multiplayer Online Role-Playing Games (MMORPGs) provide lifelike virtual environments in which players can conduct a variety of activities including combat, trade, and chat with other players. While the game world and the available actions therein are inspired by their offline counterparts, the games' popularity and dedicated fan base are testaments to the allure of novel social interactions granted to people by allowing them an alternative life as a new character and persona. In this paper we investigate the phenomenon of "gender swapping," which refers to players choosing avatars of genders opposite to their natural ones. We report the behavioral patterns observed in players of Fairyland Online, a globally serviced MMORPG, during social interactions when playing as in-game avatars of their own real gender or gender-swapped. We also discuss the effect of gender role and self-image in virtual social situations and the potential of our study for improving MMORPG quality and detecting online identity frauds.
+  authors: Jing-Kai Lou*, Kunwoo Park*, Meeyoung Cha, Juyong Park, Chin-Laung Lei, Kuan-Ta Chen
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/2488388.2488460
+    display: International World Wide Web Conference (WWW), 2013.
+  highlight: 1
+  

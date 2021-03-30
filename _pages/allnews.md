@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "HUMANE Lab @ Soongsil Univ."
+excerpt: "HUMANE Lab -- News"
 sitemap: false
 permalink: /allnews.html
 ---

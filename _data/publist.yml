@@ -9,7 +9,6 @@
 
 - title: "Automatically Detecting Image–Text Mismatch on Instagram with Deep Learning"
   image: ha_ja21.png
-  description: Visual social media have emerged as an essential brand communication channel for advertisers and brands. The active use of hashtags has enabled advertisers to identify customers interested in their brands and better understand their consumers. However, some users post brand-incongruent content—for example, posts composed of brand-irrelevant images with brand-relevant hashtags. Such visual information mismatch can be problematic because it hinders other consumers’ information search processes and advertisers’ insight generation from consumer-initiated social media data. This study aims to characterize visually mismatched content in brand-related posts on Instagram and builds a visual information mismatch detection model using computer vision. We propose a machine-learning model based on three cues: image, text, and metadata. Our analysis shows the effectiveness of deep learning and the importance of combining text and image features for mismatch detection. We discuss the advantages of machine-learning methods as a novel research tool for advertising research and conclude with implications of our findings.
   authors: Yui Ha*, Kunwoo Park*, Su Jung Kim, Jungseock Joo, Meeyoung Cha
   link:
     url: https://www.tandfonline.com/doi/full/10.1080/00913367.2020.1843091

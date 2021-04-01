@@ -6,4 +6,4 @@ permalink: /pictures/
 ---
 
 # Pictures
-(under construction)
+*(under construction)*

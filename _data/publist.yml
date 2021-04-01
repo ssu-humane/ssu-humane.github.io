@@ -18,6 +18,13 @@
     url: https://arxiv.org/abs/2009.08100
     display: International AAAI Conference on Web and Social Media (ICWSM), 2021.
   highlight: 0
+  
+- title: "인기 클립 탐지를 위한 트위치 이모트 임베딩 방법"
+  authors: 송현호, 박건우, 차미영
+  link:
+    url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10501406&language=ko_KR
+    display: Journal of KIISE, 2020.
+  highlight: 0
 
 - title: "Understanding Gender Stereotypes and Electoral Success from Visual Self-presentations of Politicians in Social Media"
   authors: Danni Chen, Kunwoo Park, Jungseock Joo

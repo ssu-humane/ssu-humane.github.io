@@ -29,19 +29,22 @@ We are a **HUMAN-CENTERED** research group from three perspectives:
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/yoon_access21.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/1_media_highlight.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/ha_ja21.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/2_news_misinfo.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/park_icwsm21.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/3_visual_media.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/park_media.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/4_causal_inference.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/yoon_aaai19.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/5_chat_satisfaction.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/6_engagement.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

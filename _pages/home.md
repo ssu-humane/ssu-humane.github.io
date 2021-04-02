@@ -41,7 +41,7 @@ We are a **HUMAN-CENTERED** research group from three perspectives:
             <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/4_causal_inference.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/5_chat_satisfaction.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/5_chat_satisfiaction.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/main_slider/6_engagement.png" alt="Slide 6" />

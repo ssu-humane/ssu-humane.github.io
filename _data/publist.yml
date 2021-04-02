@@ -1,12 +1,12 @@
 - title: "Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network"
-  authors: Seunghyun Yoon*, Kunwoo Park*, Minwoo Lee, Taegyun Kim, Meeyoung Cha, Kyomin Jung
+  authors: Seunghyun Yoon\*, Kunwoo Park\*, Minwoo Lee, Taegyun Kim, Meeyoung Cha, Kyomin Jung
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9363185/
     display:  IEEE Access, 2021.
   highlight: 0
 
 - title: "Automatically Detecting Image–Text Mismatch on Instagram with Deep Learning"
-  authors: Yui Ha*, Kunwoo Park*, Su Jung Kim, Jungseock Joo, Meeyoung Cha
+  authors: Yui Ha\*, Kunwoo Park\*, Su Jung Kim, Jungseock Joo, Meeyoung Cha
   link:
     url: https://www.tandfonline.com/doi/full/10.1080/00913367.2020.1843091
     display: Journal of Advertising, 2021.
@@ -55,7 +55,7 @@
   highlight: 0
 
 - title: "Detecting incongruity between news headline and body text via a deep hierarchical encoder"
-  authors: Seunghyun Yoon*, Kunwoo Park*, Joongbo Shin, Hongjun Lim, Seungpil Won, Meeyoung Cha, Kyomin Jung
+  authors: Seunghyun Yoon\*, Kunwoo Park\*, Joongbo Shin, Hongjun Lim, Seungpil Won, Meeyoung Cha, Kyomin Jung
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/3756
     display: International AAAI Conference on Artificial Intelligence (AAAI), 2019.
@@ -118,7 +118,7 @@
   highlight: 0
   
 - title: "Gender swapping and user behaviors in online social games"
-  authors: Jing-Kai Lou*, Kunwoo Park*, Meeyoung Cha, Juyong Park, Chin-Laung Lei, Kuan-Ta Chen
+  authors: Jing-Kai Lou\*, Kunwoo Park\*, Meeyoung Cha, Juyong Park, Chin-Laung Lei, Kuan-Ta Chen
   link:
     url: https://dl.acm.org/doi/abs/10.1145/2488388.2488460
     display: International World Wide Web Conference (WWW), 2013.

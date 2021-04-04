@@ -9,9 +9,9 @@ permalink: /
 Human-centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for making a real-world impact.
 
 We are a **HUMAN-CENTERED** research group from three perspectives:
-1. **Problem**: we tackle human-centered social problems that emerge in human behaviors and social interactions. 
-2. **Data**: we focus on human-generated data such as behavioral records, text, images, etc., in online social platforms (e.g., news, social media).
-3. **Method**: we study technical components in data-driven solutions that facilitate human usages, such as interpretability and causality.
+1. **Data**: we focus on digitally-logged human-generated data such as behavioral records, text, images, etc., in online platforms (e.g., news, social media).
+2. **Problem**: we tackle human-centered social problems that emerge in online human behaviors and social interactions.
+3. **Method**: we study human-centered technical components in data-driven solutions that facilitate human usages, such as interpretability and causality.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

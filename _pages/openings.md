@@ -19,11 +19,12 @@ If you are interested in pursuing a master’s or doctoral degree with me at Soo
 ## Undergraduate interns
 Undergraduate interns will be given an opportunity to learn data science and machine learning skills and to participate in an ongoing research project by supporting data collection, analysis, and model implementation. 
 
-- An ideal candidate is a junior (3학년) or senior (4학년) student in Soongsil, who is interested in our research and fluent in at least a programming language: fyi, we mainly use python.
-- Prior experience in data science is not necessary, but it will be a plus. 
-- You could be part of a study group of deep learning basics or recent technologies according to your interests. 
+[**[Call (in Korean)]**](https://docs.google.com/document/d/1to6lOJOhOXm01ynyzYH05dnTjUamgcXrmwsfgAlXzHU/edit?usp=sharing)
 
 If you are interested, please email me (kunwoo dot park at ssu dot ac dot kr) with a brief introduction on your background. 
+
+
+
 
 
 

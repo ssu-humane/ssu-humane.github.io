@@ -4,6 +4,13 @@
     display:  Findings of ACL, 2021 (accepted).
   highlight: 0
   
+- title: "How-to present news on social media: A causal analysis of editing news headlines for boosting user engagement"
+  authors: Kunwoo Park, Haewoon Kwak, Jisun An, Sanjay Chawla
+  link:
+    url: https://arxiv.org/abs/2009.08100
+    display: International AAAI Conference on Web and Social Media (ICWSM), 2021.
+  highlight: 0
+  
 - title: "Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network"
   authors: Seunghyun Yoon\*, Kunwoo Park\*, Minwoo Lee, Taegyun Kim, Meeyoung Cha, Kyomin Jung
   link:
@@ -16,13 +23,6 @@
   link:
     url: https://www.tandfonline.com/doi/full/10.1080/00913367.2020.1843091
     display: Journal of Advertising, 2021.
-  highlight: 0
-
-- title: "How-to present news on social media: A causal analysis of editing news headlines for boosting user engagement"
-  authors: Kunwoo Park, Haewoon Kwak, Jisun An, Sanjay Chawla
-  link:
-    url: https://arxiv.org/abs/2009.08100
-    display: International AAAI Conference on Web and Social Media (ICWSM), 2021.
   highlight: 0
   
 - title: "인기 클립 탐지를 위한 트위치 이모트 임베딩 방법"

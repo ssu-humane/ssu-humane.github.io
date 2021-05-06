@@ -1,3 +1,9 @@
+- title: "Who Blames or Endorses Whom? Extracting Directed Sentiment between Political Entities in News Articles"
+  authors: Kunwoo Park, Zhufeng Pan, Jungseock Joo
+  link:
+    display:  Findings of ACL, 2021 (accepted).
+  highlight: 0
+  
 - title: "Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network"
   authors: Seunghyun Yoon\*, Kunwoo Park\*, Minwoo Lee, Taegyun Kim, Meeyoung Cha, Kyomin Jung
   link:

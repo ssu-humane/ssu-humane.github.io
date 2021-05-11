@@ -16,7 +16,7 @@ AI+Journalism 분야에서 활발히 연구하고 있으며, 국내외 저명 �
 
 
 
-Human-centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for making a real-world impact.
+Human-Centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for making a real-world impact.
 
 We are a **HUMAN-CENTERED** research group from three perspectives:
 1. **Data**: we focus on digitally-logged human-generated data such as behavioral records, text, images, etc., in online platforms (e.g., news, social media).

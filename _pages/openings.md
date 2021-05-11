@@ -23,6 +23,7 @@ Undergraduate interns will be given an opportunity to learn data science and mac
 
 If you are interested, please email me (kunwoo dot park at ssu dot ac dot kr) with a brief introduction on your background. 
 
+<iframe src="https://calendar.google.com/calendar/embed?src=bywords.kor%40gmail.com&ctz=Asia%2FSeoul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 

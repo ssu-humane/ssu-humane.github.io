@@ -7,10 +7,10 @@ permalink: /
 ---
 
 숭실대학교 AI 융합학부 인간 중심 데이터 과학 연구실(HUMANE 랩)은 데이터 과학 및 인공지능 기술을 연구하여 사회 문제를 해결하고자 목표하는 연구 그룹입니다.
-데이터 과학, 딥러닝, 자연어 처리, 인과 추론 방법 등을 연구하며, 온라인 플랫폼 환경에서 사람에 의해 생성된 행동 기록 및 콘텐츠를 분석합니다.
-AI+Journalism 분야에서 활발히 연구하고 있으며, 국내외 저명 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
+데이터 과학과 딥러닝 전반에 관심을 갖고 자연어 처리와 인과 추론 방법을 주로 연구하며, 온라인 플랫폼 환경에서 사람에 의해 생성된 행동 기록 및 콘텐츠를 주로 분석합니다.
+주요 연구 주제는 AI+Journalism 이며, 국내외 저명 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
 
-인간 중심 데이터 과학 연구실에서는 학부 연구생 및 대학원생을 모집하고 있습니다. 데이터 과학, 딥러닝, 자연어 처리 등의 기술을 공부하고 사회적으로 의미 있는 문제를 해결하고 싶은 학생들의 많은 관심 바랍니다. [(자세히)]({{ site.url }}{{ site.baseurl }}/vacancies)
+인간 중심 데이터 과학 연구실에서는 학부 연구생 및 대학원생을 모집하고 있습니다. 딥러닝 자연어 처리, 다종 데이터 처리 등의 기술을 공부하고 사회적으로 의미 있는 문제를 해결하고 싶은 학생들의 많은 관심 바랍니다. [(자세히)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 
@@ -67,7 +67,7 @@ We are a **HUMAN-CENTERED** research group from three perspectives:
   </a>
 </div>
 
-HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in online news (i.e., AI+Journalism) through **natural language processing (NLP)** and **causal inference** technologies. We aim at presenting research at top-tier conference venues and journals.
+HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in online news (i.e., AI+Journalism) through **natural language processing (NLP)**, **multimodal data processing**, and **causal inference** technologies. We aim at presenting research at top-tier conference venues and journals.
 
  **We are looking for passionate new graduate students/undergraduate interns to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **.** **We(I) are waiting for you!**
 

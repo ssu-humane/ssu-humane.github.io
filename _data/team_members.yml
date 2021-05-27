@@ -8,7 +8,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://ssudna.github.io/vacancies">openings</a> for more info
+  info: See <a href="http://ssu-humane.github.io/vacancies">openings</a> for more info
   email: kunwoo.park@ssu.ac.kr
   number_educ: 0
   education1:

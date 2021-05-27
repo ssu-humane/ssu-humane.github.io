@@ -57,7 +57,7 @@ We are a **HUMAN-CENTERED** research group from three perspectives:
   </a>
 </div>
 
-HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in online news (i.e., AI+Journalism) through **natural language processing (NLP)**, **multimodal data processing**, and **causal inference** technologies. We aim at presenting research at top-tier conference venues and journals.
+HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in online news (i.e., AI+Journalism) through **natural language processing (NLP)**, **multimodal deep learning**, and **causal inference** technologies. We aim at presenting research at top-tier conference venues and journals.
 
  **We are looking for passionate new graduate students/undergraduate interns to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **.** **We(I) are waiting for you!**
 

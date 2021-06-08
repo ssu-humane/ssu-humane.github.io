@@ -14,7 +14,7 @@ We are always looking for new group members with passion, talent, and grit! If y
 We currently don't have an open position for postdocs, but please feel free to reach me for potential future openings or collaboration opportunities.
 
 ## Graduate students
-If you are interested in pursuing a master’s or doctoral degree with me at Soongsil Univ., please send me (i) a CV, (ii) the list of taken subjects during undergrads, and (iii) the description of a project you have participated that are most relevant to our research. I would recommend students who plan to pursue an MS/Ph.D. degree first joining as undergraduate interns.
+If you are interested in pursuing a master’s or doctoral degree with me at Soongsil Univ., please send me (i) a CV, (ii) the list of taken subjects during undergrads, and (iii) the description of a project you have participated that are most relevant to our research. 
 
 ## Undergraduate interns
 

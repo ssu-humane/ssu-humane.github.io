@@ -1,13 +1,15 @@
-- title: "Who Blames or Endorses Whom? Extracting Directed Sentiment between Political Entities in News Articles"
+- title: "Who Blames or Endorses Whom? Entity-to-Entity Directed Sentiment Extraction in News Text"
   authors: Kunwoo Park, Zhufeng Pan, Jungseock Joo
   link:
+    url: https://arxiv.org/abs/2106.01033
     display:  Findings of ACL, 2021 (accepted).
   highlight: 0
   
-- title: "How-to present news on social media: A causal analysis of editing news headlines for boosting user engagement"
+- title: "How-to Present News on Social Media: A Causal Analysis of Editing News Headlines for Boosting User Engagement
+"
   authors: Kunwoo Park, Haewoon Kwak, Jisun An, Sanjay Chawla
   link:
-    url: https://arxiv.org/abs/2009.08100
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/18078
     display: International AAAI Conference on Web and Social Media (ICWSM), 2021.
   highlight: 0
   

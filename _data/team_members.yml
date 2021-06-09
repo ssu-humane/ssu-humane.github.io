@@ -1,10 +1,42 @@
-- name: Kunwoo Park
+- name: Kunwoo Park (박 건우)
   photo: kunwoo.jpg
-  info: Assistant professor. See <a href="http://bywords.github.io">here</a> for more info
+  info: Assistant professor
   email: kunwoo.park@ssu.ac.kr
   number_educ: 2
   education1: Ph.D. in Web Science, KAIST
-  education2: Postdoc at KAIST, QCRI, and UCLA
+  education2: Family. Drink. Nature. E-Sports.
+  
+- name: Park Chaewon (박 채원)
+  photo: rock.jpg
+  info: Undergraduate intern
+  email: parkchaewon8566@gmail.com
+  number_educ: 0
+  
+- name: Lee Sang Yoon (이 상윤)
+  photo: rock.jpg
+  info: Undergraduate intern
+  email: yunisy51@gmail.com
+  number_educ: 0
+  
+- name: Yejun Yoon (윤 예준)
+  photo: yejun.jpg
+  info: Undergraduate intern
+  email: yeayen789@gmail.com
+  number_educ: 1
+  education1: Research Interest: NLP
+  
+- name: Song Sunyoung (송 선영)
+  photo: sunyoung.jpg
+  info: Undergraduate intern
+  email: kismk8743@gmail.com
+  number_educ: 0
+  
+- name: Hyewon Choi (최 혜원)
+  photo: hyewon.jpg
+  info: Undergraduate intern
+  email: soohi0966@gmail.com
+  number_educ: 1
+  education1: NLP, image processing, 3D reconstruction, etc.
 
 - name: "This could be you !"
   photo: rock.jpg

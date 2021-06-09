@@ -36,9 +36,4 @@
   info: Undergraduate intern
   email: soohi0966@gmail.com
   number_educ: 1
-  education1: NLP, image processing, 3D reconstruction, etc.
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://ssu-humane.github.io/vacancies">openings</a> for more info
-  number_educ: 0
+  education1: NLP, image processing, 3D reconstruction.

@@ -18,7 +18,7 @@ If you are interested in pursuing a master’s or doctoral degree with me at Soo
 
 ## Undergraduate interns
 
-Currently, we don't have open positions for undergrads.
+Currently we don't have open positions for undergrads.
 
 [Undergraduate interns will be given an opportunity to learn data science and machine learning skills and to participate in an ongoing research project by supporting data collection, analysis, and model implementation. If you are interested, please email me with a brief introduction on your background.]: #
 

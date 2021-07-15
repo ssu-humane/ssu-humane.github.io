@@ -11,7 +11,7 @@ permalink: /
 
 인간 중심 데이터 과학 연구실에서는 대학원생을 모집하고 있습니다. 딥러닝 자연어 처리, 다종 데이터 처리 등의 인공지능 기술을 공부하고 사회적으로 의미 있는 문제를 해결하고 싶은 학생들의 많은 관심 바랍니다. [(자세히)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-Human-Centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for tackling social problems. HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems using online big data through **natural language processing (NLP)** and **multimodal deep learning** technologies. We aim at presenting research at top-tier conference venues and journals.
+Human-Centered Data Science Laboratory(HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for tackling social problems. HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems using online big data through **natural language processing (NLP)** and **multimodal deep learning** technologies. We aim at presenting research at top-tier conference venues and journals.
 
  We are looking for passionate new graduate students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies). We are waiting for you!
 

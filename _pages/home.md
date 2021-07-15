@@ -7,20 +7,13 @@ permalink: /
 ---
 
 숭실대학교 AI 융합학부 인간 중심 데이터 과학 연구실(HUMANE 랩)은 데이터 과학 및 인공지능 기술을 연구하여 사회 문제를 해결하고자 목표하는 연구 그룹입니다.
-자연어 처리(Natural Language Processing), 다종 데이터 딥러닝(Multimodal Deep Learning), 인과 추론 방법(Causal Inference)을 주로 연구하며, 사회 문제 해결을 위해 온라인 플랫폼 환경에서 사람에 의해 생성된 빅 데이터를 분석합니다. 국내외 저명 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
+자연어 처리(Natural Language Processing) 및 다종 데이터 딥러닝(Multimodal Deep Learning)방법을 주로 연구하며, 사회 문제 해결을 위해 온라인 플랫폼 환경에서 사람에 의해 생성된 빅 데이터를 분석합니다. 국제 저명 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
 
 인간 중심 데이터 과학 연구실에서는 대학원생을 모집하고 있습니다. 딥러닝 자연어 처리, 다종 데이터 처리 등의 인공지능 기술을 공부하고 사회적으로 의미 있는 문제를 해결하고 싶은 학생들의 많은 관심 바랍니다. [(자세히)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
+Human-Centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for tackling social problems. HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems using online big data through **natural language processing (NLP)** and **multimodal deep learning** technologies. We aim at presenting research at top-tier conference venues and journals.
 
-
-
-
-Human-Centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for making a real-world impact.
-
-We are a **HUMAN-CENTERED** research group from three perspectives:
-1. **Data**: we focus on digitally-logged human-generated data such as behavioral records, text, images, etc., in online platforms (e.g., news, social media).
-2. **Problem**: we tackle human-centered social problems that emerge in online human behaviors and social interactions (e.g., misinformation).
-3. **Method**: we study human-centered technical components in data-driven solutions that facilitate human usages, such as interpretability and causality.
+ We are looking for passionate new graduate students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies). We are waiting for you!
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -57,8 +50,5 @@ We are a **HUMAN-CENTERED** research group from three perspectives:
   </a>
 </div>
 
-HUMANE Lab is actively working on fascinating real-world projects addressing human-centered problems in online big data through **natural language processing (NLP)**, **multimodal deep learning**, and **causal inference** technologies. We aim at presenting research at top-tier conference venues and journals.
-
- **We are looking for passionate new graduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **.** **We(I) are waiting for you!**
 
 

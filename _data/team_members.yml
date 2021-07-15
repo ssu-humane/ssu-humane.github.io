@@ -2,11 +2,10 @@
   photo: kunwoo.jpg
   info: Assistant professor [[more info]](https://bywords.github.io)
   email: kunwoo.park@ssu.ac.kr
-  number_educ: 1
-  education1: AI+Journalism
-  education2: Data and Machine Bias
-  
-  
+  number_educ: 2
+  education1: NLP, AI + Journalism
+  education2: Impact of Data/Machine Bias
+    
 - name: Park Chaewon (박 채원)
   photo: rock.jpg
   info: Undergraduate intern

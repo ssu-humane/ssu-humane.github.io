@@ -17,9 +17,6 @@ kunwoo.park at ssu dot ac dot kr
 
 (제목: [대학원 지원]학교\_학과\_이름)
 
-
-## Calendar
-
 [## Undergraduate interns]: #
 
 [현재는 학부 연구생을 뽑고 있지 않습니다.]: #

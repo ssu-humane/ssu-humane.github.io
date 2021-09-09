@@ -14,7 +14,8 @@ permalink: /vacancies
 아래의 캘린더를 보고 면담을 원하는 시간 후보 2-3개와 함께 메일 바랍니다. 
 
 kunwoo.park at ssu dot ac dot kr
-(제목: [대학원 지원]학교_학과_이름)
+
+(제목: [대학원 지원]학교\_학과\_이름)
 
 
 ## Calendar

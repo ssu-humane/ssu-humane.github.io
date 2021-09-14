@@ -1,46 +1,38 @@
-- name: Kunwoo Park (박 건우)
+- name: Kunwoo Park
   photo: kunwoo.jpg
   info: Assistant professor [[more info]](https://bywords.github.io)
   email: kunwoo.park@ssu.ac.kr
-  number_educ: 2
-  education1: NLP, AI + Journalism
-  education2: Impact of Data/Machine Bias
+  number_educ: 0
     
-- name: Park Chaewon (박 채원)
+- name: Chaewon Park
   photo: rock.jpg
   info: Undergraduate intern
   email: parkchaewon8566@gmail.com
   number_educ: 0
   
-- name: Lee Sang Yoon (이 상윤)
+- name: Sang Yoon Lee
   photo: rock.jpg
   info: Undergraduate intern
   email: yunisy51@gmail.com
   number_educ: 0
   
-- name: Yejun Yoon (윤 예준)
+- name: Yejun Yoon
   photo: yejun.jpg
   info: Undergraduate intern
   email: yeayen789@gmail.com
   number_educ: 1
   education1: NLP
   
-- name: Song Sunyoung (송 선영)
+- name: Sunyoung Song
   photo: sunyoung.jpg
   info: Undergraduate intern
   email: kismk8743@gmail.com
   number_educ: 0
   
-- name: Hyewon Choi (최 혜원)
+- name: Hyewon Choi
   photo: hyewon.jpeg
   info: Undergraduate intern
   email: soohi0966@gmail.com
   number_educ: 1
   education1: NLP, image processing, 3D reconstruction.
   
-- name: Taewoo Kim (김 태우)
-  photo: taewoo.jpg
-  info: Undergraduate intern
-  email: 99xtaewoo@gmail.com
-  number_educ: 1
-  education1: Deep learning

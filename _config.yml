@@ -9,7 +9,7 @@
 title: HUMANE Lab @Soongsil Univ.
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Human-Centered Data Science Laboratory(인간 중심 데이터 과학 연구실, HUMANE Lab) at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for making a real-world impact.
+  Human-Centered Data Science Laboratory at Soongsil University is a dynamic research group where people bring together to study data science and artificial intelligence technologies for making a real-world impact.
 
 
 baseurl: ""

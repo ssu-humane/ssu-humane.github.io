@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team members
 
-## Current Members
+## Current members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

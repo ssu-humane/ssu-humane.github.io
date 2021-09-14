@@ -70,3 +70,16 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Former members
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+{% for member in site.data.former_members %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+
+</div>
+
+

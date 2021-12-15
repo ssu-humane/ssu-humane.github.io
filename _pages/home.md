@@ -14,7 +14,7 @@ HUMANE Lab at Soongsil University is a dynamic research group studying data scie
 Major research topics include
 - AI for Journalism and media studies
 - Bias in online data
-- Application of pretrained language models (e.g., BERT, GPT, etc.)
+- Application of pretrained language models (e.g., BERT, GPT)
 - Multi-modal representation and its application
 
  [(대학원 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)

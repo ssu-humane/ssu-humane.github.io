@@ -9,6 +9,8 @@ permalink: /
 숭실대학교 AI 융합학부 인간 중심 데이터 과학 연구실은 데이터 과학 인공지능 기술을 연구하여 사회 문제를 해결하고자 목표하는 연구 그룹입니다.
 감성 분석, 텍스트 임베딩 등 딥러닝 자연어 처리 기술을 주로 다루며, 뉴스, 소셜 미디어 등 온라인 환경의 빅 데이터를 분석하여 국제 저명 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
 
+연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
+
 HUMANE Lab at Soongsil University is a dynamic research group studying data science and artificial intelligence technologies for tackling social problems. We focus on deep learning-based natural language processing such as sentiment analysis and text embedding for analyzing large-scale data in online platforms (e.g., news, social media).
 
 Research topics include, but are not limited to:
@@ -17,9 +19,14 @@ Research topics include, but are not limited to:
 - Application of pretrained language models (e.g., BERT, GPT)
 - Multi-modal representation and its application
 
-Any types of collaboration inquiries are welcomed.
+Any types of collaboration inquiries are welcomed. 
 
  [(대학원 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ 
+## Contact
+
+박 건우 교수 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

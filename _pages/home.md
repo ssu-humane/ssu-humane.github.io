@@ -23,11 +23,6 @@ Any types of collaboration inquiries are welcomed.
 
  [(대학원 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)
  
-## Contact
-
-박 건우 교수 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
-
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -63,5 +58,6 @@ Any types of collaboration inquiries are welcomed.
   </a>
 </div>
 
+### Contact
 
-
+박 건우 교수 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)

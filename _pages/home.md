@@ -11,11 +11,13 @@ permalink: /
 
 HUMANE Lab at Soongsil University is a dynamic research group studying data science and artificial intelligence technologies for tackling social problems. We focus on deep learning-based natural language processing such as sentiment analysis and text embedding for analyzing large-scale data in online platforms (e.g., news, social media).
 
-Major research topics include
+Research topics include, but are not limited to:
 - AI for Journalism and media studies
 - Bias in online data
 - Application of pretrained language models (e.g., BERT, GPT)
 - Multi-modal representation and its application
+
+Any types of collaboration inquiries are welcomed.
 
  [(대학원 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)
 

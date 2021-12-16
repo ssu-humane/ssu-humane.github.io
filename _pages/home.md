@@ -15,11 +15,12 @@ HUMANE Lab at Soongsil University is a dynamic research group studying deep lear
 
 Research topics include, but are not limited to:
 - AI for Journalism and media studies
-- Bias in online data / Fairness in AI models
+- Bias in online data / Fairness in AI systems
 - Application of pretrained language models (e.g., BERT, GPT)
 - Multi-modal representation and its application
 
-Any types of collaboration inquiries are welcomed. 
+We welcome any type of collaboration inquiry. 
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

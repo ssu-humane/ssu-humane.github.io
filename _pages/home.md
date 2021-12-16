@@ -11,7 +11,7 @@ permalink: /
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
 
-HUMANE Lab at Soongsil University is a dynamic research group studying deep learning and artificial intelligence technologies for tackling social problems. We mostly analyze large-scale data in online platforms (e.g., news, social media), aiming at publishing at top-tier CS conferences and interdisciplinary journals.
+HUMANE Lab at Soongsil University is a dynamic research group studying deep learning and artificial intelligence technologies for tackling social problems. We mainly analyze large-scale data in online platforms (e.g., news, social media), aiming at publishing at top-tier CS conferences and interdisciplinary journals.
 
 Research topics include, but are not limited to:
 - AI for Journalism and media studies

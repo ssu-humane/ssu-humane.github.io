@@ -60,7 +60,7 @@ We welcome any type of collaboration inquiry.
 
 *humane*  adj. showing kindness, care, and sympathy towards others, especially those who are suffering (Cambridge Dictionary, 2022)
 
-Our broad aim is at developing humane technologies for a better world. HUMANE lab also stands for HUMan-centered dAta science and lNguage tEchnologies Laboratory.
+Our broad aim is at developing humane technologies for a better world. HUMANE lab also stands for HUMan-centered dAta science and lNguage tEchnologies laboratory.
 
 
 ### Contact

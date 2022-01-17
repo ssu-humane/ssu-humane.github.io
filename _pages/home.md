@@ -58,7 +58,7 @@ We welcome any type of collaboration inquiry.
 
 ### Why HUMANE?
 
-*humane*  adj. showing kindness, care, and sympathy towards others, especially those who are suffering (Cambridge Dictionary, 2022)
+``*humane*  adj. showing kindness, care, and sympathy towards others, especially those who are suffering'' (Cambridge Dictionary, 2022)
 
 Our broad aim is at developing humane technologies for a better world. HUMANE lab also stands for HUMan-centered dAta science and lNguage tEchnologies laboratory.
 
@@ -67,4 +67,4 @@ Our broad aim is at developing humane technologies for a better world. HUMANE la
 
 박 건우 교수 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
 
- [(대학원 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ [(연구실 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)

@@ -5,7 +5,6 @@ excerpt: "HUMANE Lab at Soongsil University."
 sitemap: false
 permalink: /
 ---
-
 숭실대학교 AI 융합학부 HUMANE Lab 은 딥러닝 인공지능 기술을 연구하여 사회 문제를 해결하고자 목표하는 연구 그룹입니다.
 뉴스, 소셜 미디어 등 온라인 환경의 빅 데이터를 주로 분석하며, 국제 저명 CS분야 학회 및 융합 저널에 연구 결과를 발표하는 것을 목표합니다.
 

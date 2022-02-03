@@ -2,35 +2,35 @@
   photo: kunwoo.jpg
   info: Assistant professor [[more info]](https://bywords.github.io)
   email: kunwoo.park@ssu.ac.kr
-  number_educ: 0
+  number_interest: 0
   
 - name: Hyewon Choi
   photo: hyewon.jpeg
   info: Master student
   email: soohi0966@gmail.com
-  number_educ: 1
-  education1: NLP
+  number_interest: 1
+  interest1: NLP
   
 - name: Chaewon Park
   photo: chaewon.jpg
   info: Undergraduate intern
   email: parkchaewon8566@gmail.com
-  number_educ: 1
-  education1: NLP 
+  number_interest: 1
+  interest1: NLP 
   
 - name: Yejun Yoon
   photo: yejun.jpg
   info: Undergraduate intern
   email: yeayen789@gmail.com
-  number_educ: 1
-  education1: NLP
+  number_interest: 1
+  interest1: NLP
   
 - name: Sunyoung Song
   photo: sunyoung.jpg
   info: Undergraduate intern
   email: kismk8743@gmail.com
-  number_educ: 1
-  education1: NLP, NLG
+  number_interest: 1
+  interest1: NLP, NLG
   
 
   

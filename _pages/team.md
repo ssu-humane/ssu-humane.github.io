@@ -23,12 +23,9 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br><{{ member.email }}></i>
     
-  {% if member.number_interest != 0 %}
-  <h5> Topic of interest </h5>
-  {% endif %}
-
-    <ul style="overflow: hidden">
-      {% if member.number_interest == 1 %}
+  <ul style="overflow: hidden">
+    
+  {% if member.number_interest == 1 %}
   <li> {{ member.interest1 }} </li>
   {% endif %}
 
@@ -36,7 +33,8 @@ permalink: /team/
   <li> {{ member.interest1 }} </li>
   <li> {{ member.interest2 }} </li>
   {% endif %}
-    </ul>
+    
+   </ul>
   
 </div>
 

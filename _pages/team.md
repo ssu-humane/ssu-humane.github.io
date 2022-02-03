@@ -22,39 +22,19 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-portrait" width="35%" height="200px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br><{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+    
+  <h5> Topic of interest </h5>
+    <ul style="overflow: hidden">
+      {% if member.number_interest == 1 %}
+  <li> {{ member.interest1 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  {% if member.number_interest == 2 %}
+  <li> {{ member.interest1 }} </li>
+  <li> {{ member.interest2 }} </li>
   {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+    </ul>
+  
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

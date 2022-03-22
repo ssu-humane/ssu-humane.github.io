@@ -9,7 +9,7 @@
   info: Master student
   email: soohi0966@gmail.com
   number_interest: 1
-  interest1: NLP
+  interest1: Contrastive Learning
   
 - name: Chaewon Park
   photo: chaewon.jpg
@@ -32,5 +32,17 @@
   number_interest: 1
   interest1: NLP, NLG
   
-
+- name: Jejun An
+  photo: jejun.jpg
+  info: Undergraduate intern
+  email: dkswpwns1@gmail.com
+  number_interest: 1
+  interest1: Automatic Headline Generation for News Article
+  
+- name: Sanya Park
+  photo: sanya.jpg
+  info: Undergraduate intern
+  email: vs501kr@gmail.com
+  number_interest: 1
+  interest1: 감정 추출, 혐오 표현 감지 
   

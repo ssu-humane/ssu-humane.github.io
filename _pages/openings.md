@@ -1,5 +1,5 @@
 ---
-title: "HUMANE Lab - Vacancies"
+title: "HUMANE Lab - How to apply"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

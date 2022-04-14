@@ -17,6 +17,7 @@ permalink: /vacancies
 ## Undergraduate interns
 
 - 학부 연구생은 매 학기 초에 모집합니다.
+- 연구실 상황에 따라 모집하지 않을 수도 있습니다.
 - AI 융합학부 홈페이지 게시판을 통해 내용과 지원 방법을 공지합니다.
 
 ## Contact

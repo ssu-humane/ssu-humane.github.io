@@ -15,7 +15,7 @@ permalink: /vacancies
 
 kunwoo.park at ssu dot ac dot kr
 
-(제목: [(대학원 지원]학과\_학번\_이름)
+(제목: [대학원 지원]학과\_학번\_이름)
 
 [## Undergraduate interns]: #
 

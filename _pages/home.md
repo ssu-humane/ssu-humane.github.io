@@ -5,18 +5,18 @@ excerpt: "HUMANE Lab at Soongsil University."
 sitemap: false
 permalink: /
 ---
-숭실대학교 AI 융합학부 HUMANE Lab 은 딥러닝 인공지능 기술을 연구하여 사회 문제를 해결하고자 목표하는 연구 그룹입니다.
-뉴스, 소셜 미디어 등 온라인 환경의 빅 데이터를 분석하며, 자연어 처리 기술을 주로 연구합니다. 국제 저명 CS/융합 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
+숭실대학교 AI 융합학부 HUMANE Lab 은 딥러닝 자연어처리 기술을 연구하여 사회 문제를 해결하고자 목표하는 연구 그룹입니다.
+뉴스, 소셜 미디어 등 온라인 환경의 빅 데이터를 분석하며, 국제 저명 CS/융합 학회 및 저널에 연구 결과를 발표하는 것을 목표합니다.
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
 
-HUMANE Lab at Soongsil University is a dynamic research group studying deep learning and data science for tackling social problems. We mainly study language technologies and analyze large-scale data in online platforms (e.g., news, social media), aiming at publishing at top-tier CS/interdsciplinary venues.
+HUMANE Lab at Soongsil University is a dynamic research group studying deep learning and language technologies for tackling social problems. We analyze large-scale data on online platforms (e.g., news, social media) and aim at publishing at top-tier CS/interdisciplinary venues.
 
-Research topics include, but are not limited to:
-- AI for Journalism and media studies
-- Bias in online data / Fairness in AI
-- Constrative Learning and data augmentation on text
-- Data-driven application of pretrained language models (PLM) and Vision-and-Language (VL) models
+The main research themes are as follows:
+- Contrastive learning and data augmentation
+- Fairness in NLP models
+- Data-centric AI
+- NLP for Journalism and media studies
 
 
 We welcome any type of collaboration inquiry. 

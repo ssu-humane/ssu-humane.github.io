@@ -24,7 +24,11 @@ The main research themes are as follows:
 
 We welcome any type of collaboration inquiry. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202207_KCC.jpg" style="max-width:100%; height:auto;"/>
+<figure>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202207_KCC.jpg" style="max-width:100%; height:auto;"/>
+      <figcaption>정보과학회 KCC 참석 (2022.07)</figcaption>
+</figure>
+
 
 ### Why HUMANE?
 

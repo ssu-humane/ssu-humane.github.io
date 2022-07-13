@@ -69,6 +69,6 @@ Our broad aim is at developing humane technologies for a better world. HUMANE la
 
 ### Contact
 
-박 건우 교수 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
+박 건우 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
 
  [(연구실 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)

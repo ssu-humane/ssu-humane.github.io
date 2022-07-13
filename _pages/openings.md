@@ -6,44 +6,31 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# How to apply?
+# 지원 방법
 
-## Graduate students
+## 대학원 
 
-- 대학원 지원 희망시 (1) 자기소개서(지원동기 포함), (2) 성적표, (3) 제 일정과 겹치지 않는 면담 가능 시간 2-3개 를 담아 메일을 보내주세요.
-- 진학 희망자는 학부 연구생 참여를 권장하나, 필수는 아닙니다.
-- 컨택시 메일 제목: [대학원 지원]학과\_학번\_이름
+- (1) 지원 동기, (2) 성적표, (3) 면담 가능 시간 3개를 담아 이메일을 보내주세요.
+- 제목: \[대학원 지원\] 이름
 
-## Undergraduate interns
+## 학부 연구생
 
-- 학부 연구생은 매 학기 초에 모집합니다.
-- 연구실 상황에 따라 모집하지 않을 수도 있습니다.
-- AI 융합학부 홈페이지 게시판을 통해 내용과 지원 방법을 공지합니다.
+- 모집 시 AI 융합학부 홈페이지 게시판에 지원 방법을 공지합니다. 
+- 상시 지원은 받지 않으나, 이메일 문의는 언제든 환영입니다.
 
-## Contact
+## FAQ
 
-박 건우 교수 (kunwoo.park at ssu dot ac dot kr)
+Q. 진학하려면 학부 연구생 경험이 필수인가요? 
+> A. 진학 전 대학원 및 연구실 생활에 맞는지 확인하기 위해 학부 연구생 참여를 권장합니다. 하지만, 필수는 아닙니다.
 
+Q. 학부 연구생도 연구에 참여할 수 있나요?
+> A. 네. 학부 연구생은 우리 연구실에서 진행하는 연구 참여에 관심있는 학생을 대상으로 합니다. 연구 참여를 원하지 않는다면 지원을 권장하지 않습니다.
 
-<style>
-.countsort{
-	position : relative;
-	width : 100%;
-	height : 0;
-	padding-bottom : 56.25%;
-}
+Q. 딥러닝을 공부하고 싶은데 어떤 책으로 공부를 시작하면 될까요?
+> A. 밑바닥부터 시작하는 딥러닝(한빛미디어) 1, 2 권을 추천합니다. 랩 연구생들이 진행한 스터디 내용을 [확인](https://github.com/ssu-humane/Study)해봐도 좋겠습니다.
 
-.video{
-	position : absolute;
-	top : 0;
-	left : 0;
-	width : 100%;
-	height : 100%;
-}
-</style>
+Q. 숭실대학교 타 학과 학생도 지원할 수 있나요?
+> A. 네, 가능합니다.
 
-<div class="countsort">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSeoul&amp;src=Ynl3b3Jkcy5rb3JAZ21haWwuY29t&amp;src=a3Vud29vLnBhcmtAc3N1LmFjLmty&amp;color=%233F51B5&amp;color=%2333B679&amp;mode=WEEK&amp;hl=en&amp;showTabs=0&amp;showPrint=0&amp;showDate=1&amp;showCalendars=0&amp;showTitle=0" frameborder="0" allowfullscreen="" class="video"></iframe>
-</div><p><br /></p>
-
-
+Q. 타 학교 학생도 지원할 수 있나요?
+> A. 네, 가능합니다.

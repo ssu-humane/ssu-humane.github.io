@@ -3,6 +3,14 @@
   info: Assistant professor [[more info]](https://bywords.github.io)
   email: kunwoo.park@ssu.ac.kr
   number_interest: 0
+  
+- name: Sunyoung Song
+  photo: sunyoung.jpg
+  info: Master student
+  email: kismk8743@gmail.com
+  number_interest: 2
+  interest1: Inconsistency Detection
+  interest2: Sentiment Analysis
 
 - name: Chaewon Park
   photo: chaewon.jpg
@@ -18,14 +26,6 @@
   email: yeayen789@gmail.com
   number_interest: 1
   interest1: Fake News Detection
-  
-- name: Sunyoung Song
-  photo: sunyoung.jpg
-  info: Undergraduate intern
-  email: kismk8743@gmail.com
-  number_interest: 2
-  interest1: Inconsistency Detection
-  interest2: Sentiment Analysis
   
 - name: Jejun An
   photo: jejun.jpg

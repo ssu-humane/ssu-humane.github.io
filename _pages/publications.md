@@ -20,7 +20,7 @@ permalink: /publications/
 
 {% endfor %}
 
-== (Below) Before Kunwoo joined Soongsil ==
+## Before Kunwoo joined Soongsil ##
 
 {% for publi in site.data.publist_old %}
 

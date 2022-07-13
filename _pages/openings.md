@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # 지원 방법
 
-이메일 주소: kunwoo.park at ssu.ac.kr
+FAQ 내용 외 궁금한 점이 있다면 이메일(kunwoo.park at ssu.ac.kr)로 편하게 문의 바랍니다!
 
 ## 대학원 
 

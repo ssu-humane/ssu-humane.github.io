@@ -1,1 +1,112 @@
+- title: "Automatically Detecting Image–Text Mismatch on Instagram with Deep Learning"
+  authors: Yui Ha\*, Kunwoo Park\*, Su Jung Kim, Jungseock Joo, Meeyoung Cha
+  link:
+    url: https://www.tandfonline.com/doi/full/10.1080/00913367.2020.1843091
+    display: Journal of Advertising, 2021.
+  highlight: 0
+  
+- title: "인기 클립 탐지를 위한 트위치 이모트 임베딩 방법"
+  authors: 송현호, 박건우, 차미영
+  link:
+    url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10501406&language=ko_KR
+    display: Journal of KIISE, 2020.
+  highlight: 0
 
+- title: "Understanding Gender Stereotypes and Electoral Success from Visual Self-presentations of Politicians in Social Media"
+  authors: Danni Chen, Kunwoo Park, Jungseock Joo
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3423268.3423583
+    display: ACM International Conference on Multimedia Workshops (MM-W), 2020.
+  highlight: 0
+  
+- title: "BaitWatcher: A Lightweight Web Interface for the Detection of Incongruent News Headlines"
+  authors: Kunwoo Park, Taegyun Kim, Seunghyun Yoon, Meeyoung Cha, Kyomin Jung
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-42699-6_12
+    display: Disinformation, Misinformation, and Fake News in Social Media. 2020.
+  highlight: 0
+  
+- title: "Trust Me, I Have a Ph. D.: A Propensity Score Analysis on the Halo Effect of Disclosing One's Offline Social Status in Online Communities"
+  authors: Kunwoo Park, Haewoon Kwak, Hyunho Song, Meeyoung Cha
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/7321
+    display: International AAAI Conference on Web and Social Media (ICWSM), 2020.
+  highlight: 0
+
+- title: "Learning How Spectator Reactions Affect Popularity on Twitch"
+  authors: Jeongmin Kim, Kunwoo Park, Hyeonho Song, Jaimie Y Park, Meeyoung Cha
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9050588/9070238/09070473.pdf
+    display: International Conference on Big Data and Smart Computing (BIGCOMP), 2020.
+  highlight: 0
+
+- title: "Detecting incongruity between news headline and body text via a deep hierarchical encoder"
+  authors: Seunghyun Yoon\*, Kunwoo Park\*, Joongbo Shin, Hongjun Lim, Seungpil Won, Meeyoung Cha, Kyomin Jung
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/3756
+    display: International AAAI Conference on Artificial Intelligence (AAAI), 2019.
+  highlight: 0
+
+- title: "Positivity Bias in Customer Satisfaction Ratings"
+  authors: Kunwoo Park, Meeyoung Cha, Eunhee Rhim
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3184558.3186579
+    display:  The Web Conference (WWW), 2018.
+  highlight: 0
+
+- title: "Achievement and Friends: Key Factors of Player Retention Vary Across Player Levels in Online Multiplayer Games"
+  authors: Kunwoo Park, Meeyoung Cha, Haewoon Kwak, Kuan-Ta Chen
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3041021.3054176
+    display: International World Wide Web Conference (WWW), 2017.
+  highlight: 0
+
+- title: "온라인 게임 내 최고 레벨 유저의 이탈 분석"
+  authors: 박건우, 차미영
+  link:
+    url: https://www.koreascience.or.kr/article/JAKO201713842132342.page
+    display: Journal of KIISE, 2017.
+  highlight: 0
+  
+- title: "Persistent Sharing of Fitness App Status on Twitter"
+  authors: Kunwoo Park, Ingmar Weber, Meeyoung Cha, Chul Lee
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/2818048.2819921
+    display: ACM International Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), 2016.
+  highlight: 0
+  
+- title: "Mining the Minds of Customers from Online Chat Logs"
+  authors: Kunwoo Park, Jaewoo Kim, Jaram Park, Meeyoung Cha, Jiin Nam, Seunghyun Yoon, Eunhee Rhim
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/2806416.2806621
+    display: ACM International Conference on Information and Knowledge Management (CIKM), 2015.
+  highlight: 0
+  
+- title: "Humour reactions in crisis: a proximal analysis of Chinese posts on sina weibo in reaction to the salt panic of march 2011"
+  authors: Gareth Paul Beeston, Manuel Leon Urrutia, Caroline Halcrow, Xianni Xiao, Lu Liu, Jinchuan Wang, Jinho Jay Kim, Kunwoo Park
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/2567948.2579209
+    display: International World Wide Web Conference (WWW), 2014.
+  highlight: 0
+  
+- title: "Voice of the Employees Resonated in Online Bamboo Forests"
+  authors: Kunwoo Park, Jaram Park, SungKyu Park, Jaewoo Kim, Sejeong Kwon, Jinah Kwak, Meeyoung Cha
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/download/14476/14325
+    display: International AAAI Conference on Web and Social Media Workshops (ICWSM-W), 2013.
+  highlight: 0
+        
+- title: "Mood and weather: Feeling the heat?"
+  authors: Kunwoo Park, Seonggyu Lee, Eunae Kim, Minjee Park, Juyong Park, Meeyoung Cha
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/14451
+    display: International AAAI Conference on Web and Social Media (ICWSM), 2013.
+  highlight: 0
+  
+- title: "Gender swapping and user behaviors in online social games"
+  authors: Jing-Kai Lou\*, Kunwoo Park\*, Meeyoung Cha, Juyong Park, Chin-Laung Lei, Kuan-Ta Chen
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/2488388.2488460
+    display: International World Wide Web Conference (WWW), 2013.
+  highlight: 0
+  

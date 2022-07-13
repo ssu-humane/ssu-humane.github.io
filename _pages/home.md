@@ -24,7 +24,7 @@ The main research themes are as follows:
 
 We welcome any type of collaboration inquiry. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202207_KCC.jpg" alt="Slide 2" style="max-width:100%; height:auto;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202207_KCC.jpg" style="max-width:100%; height:auto;"/>
 
 ### Why HUMANE?
 

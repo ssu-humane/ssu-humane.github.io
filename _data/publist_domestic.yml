@@ -1,1 +1,20 @@
+- title: "다국어CLIP"
+  authors: 윤예준, 박건우, 윤승현
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/19397
+    display: International AAAI Conference on Web and Social Media (ICWSM), 2022.
+  highlight: 0
 
+- title: "샘플링"
+  authors: 송선영, ..
+  link:
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/19397
+    display: International AAAI Conference on Web and Social Media (ICWSM), 2022.
+  highlight: 0
+
+- title: "질문 형태 증강"
+  authors: 박채원
+  link:
+    url: https://aclanthology.org/2022.constraint-1.10/
+    display: ACL Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situations (ACL-W), 2022.
+  highlight: 0

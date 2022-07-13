@@ -13,6 +13,8 @@ permalink: /publications/
 
 *\*: Equal contribution*
 
+### International publication
+
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -20,7 +22,17 @@ permalink: /publications/
 
 {% endfor %}
 
-## Before Kunwoo joined Soongsil ##
+### Domestic publication
+
+{% for publi in site.data.publist_domestic %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
+### Before Kunwoo joined Soongsil ##
 
 {% for publi in site.data.publist_old %}
 

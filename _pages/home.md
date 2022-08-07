@@ -12,8 +12,8 @@ permalink: /
 뉴스, 소셜 미디어 등 온라인 환경에서 나타나는 문제를 주로 다루며, 국제 저명 CS/융합 학회와 저널에 연구 결과를 발표하는 것을 목표합니다.
 
 주요 연구 주제는 다음과 같습니다.
-- 텍스트 기반 대조 학습
-- 시각-언어 멀티모달 학습
+- 텍스트 기반 대조 학습, 시각-언어 다종 학습
+- 오정보, 혐오 표현 탐지
 - 공정한 언어 기술
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
@@ -21,8 +21,8 @@ permalink: /
 HUMANE Lab at Soongsil University is a dynamic research group studying deep learning and language technologies for tackling social problems. We mainly tackle problems in online platforms (e.g., news, social media) and aim at publishing at top-tier CS/interdisciplinary venues.
 
 The main research themes are as follows:
-- Contrastive learning on text
-- Vision-and-Language multimodal learning
+- Contrastive learning on text, Vision-and-Language multimodal learning
+- Online misinformation, hate speech detection
 - Fair language technologies
 
 We welcome any type of collaboration inquiry. 

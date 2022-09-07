@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # 지원 방법
 
-함께 즐겁게 연구할 self-motivated 학생을 찾습니다. 아래 내용 외 궁금한 점이 있다면 이메일(kunwoo.park at ssu.ac.kr)로 편하게 문의 바랍니다!
+함께 연구할 self-motivated 학생을 찾습니다. 아래 내용 외 궁금한 점이 있다면 이메일(kunwoo.park at ssu.ac.kr)로 편하게 문의 바랍니다!
 
 ### 대학원 
 

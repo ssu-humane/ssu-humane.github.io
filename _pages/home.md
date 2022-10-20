@@ -12,16 +12,18 @@ permalink: /
 국제 저명 CS/융합 학회와 저널에 연구 결과를 발표하는 것을 목표합니다.
 
 주요 연구 주제는 다음과 같습니다.
-- 온라인 오정보, 사회적 편향, 혐오
-- 공정한 언어 기술
+- 사회 문제 해결: 온라인 오정보, 혐오 발언 탐지 등
+- 공정한 언어 기술: 편향, 해석가능성 등 
+- 대조 학습: 시각-언어 모델, 문장 임베딩 등
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
 
 HUMANE Lab at Soongsil University is a dynamic research group studying deep learning and language technologies for tackling social problems. We aim at publishing at top-tier CS/interdisciplinary venues.
 
 The main research themes are as follows:
-- Online misinformation, social bias, hate speech
-- Fairness in language technologies
+- Tackling social problems: online misinformation, hate speech detection
+- Fairness in language technologies: bias, interpretability
+- Contrastive learning: Vision-and-Language models, sentence embedding
 
 We welcome any type of collaboration inquiry. 
 

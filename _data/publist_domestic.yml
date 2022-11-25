@@ -1,3 +1,10 @@
+- title: "자연어처리 모델의 예측 편향, 어디에서 왔을까?"
+  authors: 박건우
+  link:
+    url: https://www.kiise.or.kr/admin/file/get/a9667581-818f-4a71-86af-559e8c46cdc4
+    display: 한국정보과학회 정보과학회지, 2022. 
+  highlight: 0
+
 - title: "기사 내용과 관련 없는 대표 이미지를 사용하는 뉴스 기사 탐지:다국어 CLIP을 활용하여"
   authors: 윤예준, 박건우, 윤승현 (논문경진대회 장려상)
   link:

@@ -1,3 +1,10 @@
+- title: "Detecting Contextomized Quotes in News Headlines by Contrastive Learning"
+  authors: Seonyeong Song, Hyeonho Song, Kunwoo Park, Jiyoung Han, Meeyoung Cha
+  link:
+    url: https://ssu-humane.github.io/publications/
+    display: EACL Findings, 2023. (BK IF=2)
+  highlight: 0
+
 - title: "How Information Flows from the World to China"
   authors: Yingdan Lu, Jack Schaefer, Kunwoo Park, Jungseock Joo, Jennifer Pan
   link:
@@ -30,7 +37,7 @@
   authors: Kunwoo Park, Zhufeng Pan, Jungseock Joo
   link:
     url: https://aclanthology.org/2021.findings-acl.358/
-    display:  ACL Findings, 2021.
+    display:  ACL Findings, 2021. (BK IF=4)
   highlight: 0
   
 - title: "How-to Present News on Social Media: A Causal Analysis of Editing News Headlines for Boosting User Engagement

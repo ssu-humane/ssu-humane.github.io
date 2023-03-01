@@ -12,31 +12,14 @@
   interest1: Inconsistency Detection
   interest2: Sentiment Analysis
 
-- name: Chaewon Park
-  photo: chaewon.jpg
-  info: Research intern
-  email: parkchaewon8566@gmail.com
-  number_interest: 2
-  interest1: Hate Speech Detection
-  interest2: Data Augmentation
-  
 - name: Yejun Yoon
   photo: yejun.jpg
   info: Research intern
   email: yeayen789@gmail.com
   number_interest: 1
   interest1: Fake News Detection
-  
-- name: Jejun An
-  photo: jejun.jpg
-  info: Research intern
-  email: dkswpwns1@gmail.com
-  number_interest: 1
-  interest1: Automatic Headline Generation for News Article
 
-- name: Siyeol Jung
-  photo: siyeol.jpg
+- name: Hansung Kim
   info: Research intern
-  email: younu0226@gmail.com
-  number_interest: 1
-  interest1: Natural Language Processing
+  number_interest: 0
+  

@@ -8,18 +8,19 @@
   photo: sunyoung.jpg
   info: Master student
   email: kismk8743@gmail.com
-  number_interest: 2
-  interest1: Inconsistency Detection
-  interest2: Sentiment Analysis
+  number_interest: 1
+  interest1: 소속: 지능시스템학과
 
 - name: Yejun Yoon
   photo: yejun.jpg
   info: Research intern
   email: yeayen789@gmail.com
   number_interest: 1
-  interest1: Fake News Detection
+  interest1: 소속: AI융합학부
 
 - name: Hansung Kim
+  photo: rock.jpg
   info: Research intern
-  number_interest: 0
-  
+  email: ssukim1201@gmail.com
+  number_interest: 1
+  interest1: 소속: 산업정보시스템공학과

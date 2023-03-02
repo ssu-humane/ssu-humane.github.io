@@ -2,7 +2,7 @@
   authors: Seonyeong Song, Hyeonho Song, Kunwoo Park, Jiyoung Han, Meeyoung Cha
   link:
     url: https://arxiv.org/pdf/2302.04465v1.pdf
-    display: "To appear at EACL 2023. (BK IF 2)"
+    display: "To appear at EACL 2023. (BK IF: 2)"
   highlight: 0
 
 - title: "How Information Flows from the World to China"
@@ -30,14 +30,14 @@
   authors: Hyeonho Song, Kunwoo Park, Meeyoung Cha
   link:
     url: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00295-6
-    display: EPJ Data Science, 2021. (IF 4.33)
+    display: "EPJ Data Science, 2021. (IF: 4.333)"
   highlight: 0
 
 - title: "Who Blames or Endorses Whom? Entity-to-Entity Directed Sentiment Extraction in News Text"
   authors: Kunwoo Park, Zhufeng Pan, Jungseock Joo
   link:
     url: https://aclanthology.org/2021.findings-acl.358/
-    display: "Annual Meetings of the Association for Computational Linguistics (ACL), 2021. (BK IF 4)"
+    display: "Annual Meetings of the Association for Computational Linguistics (ACL), 2021. (BK IF: 4)"
   highlight: 0
   
 - title: "How-to Present News on Social Media: A Causal Analysis of Editing News Headlines for Boosting User Engagement

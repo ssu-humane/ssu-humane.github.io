@@ -42,4 +42,4 @@ Our broad aim is at developing humane technologies for a better world. HUMANE la
 
 박 건우 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
 
- [(연구실 지원)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ [(!!HUMANE 랩에서는 대학원에 진학할 학생을 모집하고 있습니다!!)]({{ site.url }}{{ site.baseurl }}/vacancies)

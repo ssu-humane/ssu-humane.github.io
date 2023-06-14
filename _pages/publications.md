@@ -13,7 +13,7 @@ permalink: /publications/
 
 *\*: Equal contribution*
 
-### International publication
+### International conference proceedings and journals
 
 {% for publi in site.data.publist %}
 
@@ -22,7 +22,7 @@ permalink: /publications/
 
 {% endfor %}
 
-### Domestic publication
+### In Korean
 
 {% for publi in site.data.publist_domestic %}
 
@@ -32,7 +32,7 @@ permalink: /publications/
 {% endfor %}
 
 
-### Before Kunwoo joined Soongsil ##
+### Before Kunwoo joined SSU ##
 
 {% for publi in site.data.publist_old %}
 

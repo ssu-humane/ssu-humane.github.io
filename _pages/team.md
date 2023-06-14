@@ -51,17 +51,3 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former members
-
-### Undergraduate intern
-<div class="row">
-<div class="col-sm-6 clearfix">
-{% for member in site.data.former_undergrad %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-
-</div>
-
-

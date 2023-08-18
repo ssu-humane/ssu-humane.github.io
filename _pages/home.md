@@ -22,13 +22,6 @@ Social issues such as misinformation and societal biases exist in the web and so
 Large models like language models can learn and generate these, potentially amplifying socially undesirable values. 
 To tackle the problem, HUMANE Lab mainly studies detection methods for online misinformation and social bias. 
 
-### Why HUMANE?
-
-*humane*, adj., "showing kindness, care, and sympathy towards others, especially those who are suffering" (Cambridge Dictionary, 2022)
-
-Our broad aim is to develop humane machine-learning technologies for a better world.
-
-
 ### Contact
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.

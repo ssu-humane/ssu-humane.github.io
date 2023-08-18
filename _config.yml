@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: HUMANE Lab @SSU
+title: Humane Language Technologies Lab.
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  HUMANE Lab at Soongsil University is a dynamic research group studying data science and language technologies for making a real-world impact.
+  Humane Language Technologies Lab at Soongsil University is a research group studying deep learning-based language technologies and vision-language multimodal methods.
 
 
 baseurl: ""

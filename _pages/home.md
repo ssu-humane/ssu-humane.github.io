@@ -8,7 +8,7 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202212_송년회.jpg" style="max-width:100%; height:auto;"/>
 
-숭실대학교 AI 융합학부 Humane Language Technologies (HUMANE) 연구실은 딥러닝 언어 기술 및 시각-언어 멀티모달 기술을 연구합니다.
+숭실대학교 AI 융합학부 Humane Language Technologies (HUMANE) 연구실은 <u>딥러닝 언어 기술</u> 및 <u>시각-언어 멀티모달 기술을</u> 연구합니다.
 
 The Humane Language Technologies (HUMANE) Lab of the School of AI Convergence at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods.
 

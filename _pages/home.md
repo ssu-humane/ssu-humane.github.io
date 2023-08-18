@@ -15,11 +15,11 @@ The Humane Language Technologies (HUMANE) Lab of the School of AI Convergence at
 ### Main Research
 
 웹 및 소셜 미디어 환경에는 오정보 및 사회적 편향 등 많은 사회적 문제가 존재합니다. 
-거대 모델은 이를 학습하고 생성하여 사회적으로 바람직하지 않은 가치를 증폭시킬 수 있습니다.
+거대 모델은 이를 학습하고 생성하여 사회적으로 바람직하지 않은 오정보와 편향을 증폭시킬 수 있습니다.
 이를 해결하기 위해, HUMANE Lab 은 오정보 및 사회적 편향을 탐지하기 위한 연구를 수행하고 있습니다. 
 
 Social issues such as misinformation and societal biases exist in the web and social media environment. 
-Large models can learn and generate these, potentially amplifying socially undesirable values. 
+Large models can learn and generate these, potentially amplifying misinformation and biases, which are socially undesirable. 
 To tackle the problem, HUMANE Lab studies detection methods for online misinformation and social bias. 
 
 ### Contact

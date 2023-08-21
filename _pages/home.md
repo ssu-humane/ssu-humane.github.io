@@ -8,19 +8,16 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202212_송년회.jpg" style="max-width:100%; height:auto;"/>
 
-숭실대학교 AI 융합학부 Humane Language Technologies (HUMANE) 연구실은 딥러닝 언어 기술 및 시각-언어 멀티모달 기술을 연구합니다. 인간적이고 인도적인 (humane) 기술을 개발하는 것을 큰 목표로 가지고 있습니다.
+숭실대학교 AI 융합학부 Humane Language Technologies (HUMANE) 연구실은 딥러닝 언어 기술 및 시각-언어 멀티모달 기술을 연구합니다. 인간적이고 인도적인 (humane) 기술을 개발하는 것을 지향합니다.
 
 The Humane Language Technologies (HUMANE) Lab of the School of AI Convergence at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. Our broad aim is to develop humane technologies.
 
-### Main Research
+### Main Research Subjects
 
-웹 및 소셜 미디어 환경에는 오정보 및 사회적 편향 등 많은 사회적 문제가 존재합니다. 
-거대 모델은 이를 학습하고 생성하여 사회적으로 바람직하지 않은 오정보와 편향을 증폭시킬 수 있습니다.
-이를 해결하기 위해, HUMANE Lab 은 오정보 및 사회적 편향을 탐지하기 위한 연구를 수행하고 있습니다. 
+- AI + News and Social Media
+- Data-Centric AI
+- AI and Online Safety issues
 
-Social issues such as misinformation and societal biases exist in the web and social media environment. 
-Large models can learn and generate these, potentially amplifying misinformation and biases, which are socially undesirable. 
-To tackle the problem, HUMANE Lab studies detection methods for online misinformation and social bias. 
 
 ### Contact
 

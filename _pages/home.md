@@ -12,7 +12,7 @@ permalink: /
 
 The Humane Language Technologies (HUMANE) Lab of the School of AI Convergence at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. Our broad aim is to develop humane technologies.
 
-### Main Research Subjects
+### Main Research Themes
 
 - AI + News and Social Media
 - Data-Centric AI

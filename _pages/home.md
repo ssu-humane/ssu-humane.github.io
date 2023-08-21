@@ -16,7 +16,7 @@ The Humane Language Technologies (HUMANE) Lab of the School of AI Convergence at
 
 - AI + News and Social Media
 - Data-Centric AI
-- AI and Online Safety issues
+- AI and Online Safety
 
 
 ### Contact

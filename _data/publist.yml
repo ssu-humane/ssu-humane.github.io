@@ -12,11 +12,11 @@
     display: "submitted to EMNLP 2023"
   highlight: 0
   
-- title: "Perceived Gender Cues from Social Media Photographs and its Relations to Electoral Success"
+- title: "Perceived masculinity from Facebook photographs of candidates predicts electoral success"
   authors: Kunwoo Park, Jungseock Joo
   link:
-    url: https://ssu-humane.github.io/publications/
-    display: "EPJ Data Science, to appear. (IF: 3.63)"
+    url: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00404-7
+    display: "EPJ Data Science, 2023. (IF: 3.63)"
   highlight: 0
 
 - title: "Detecting Contextomized Quotes in News Headlines by Contrastive Learning"

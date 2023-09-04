@@ -14,7 +14,9 @@ The Humane Language Technologies (HUMANE) Lab of the School of AI Convergence at
 
 ### Research Themes
 
-- AI for Journalism
+- AI + News and Social Media
+  + Online Misinformation
+  + Hate Speech
 - Data-Centric AI
 - Multilinguality, Multimodality
 

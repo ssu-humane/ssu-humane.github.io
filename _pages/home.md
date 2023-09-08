@@ -16,7 +16,7 @@ The Humane Data & Language Technologies (HUMANE) Lab of the School of AI Converg
 
 - Natural Language Processing
 - Vision and Language
-- Multilinguality, Multimodality
+- Data-Centric AI
 - AI + News and Social Media
   + Tackling Online Misinformation
   + Detecting Biased and Offensive Content

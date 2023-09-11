@@ -18,7 +18,7 @@ permalink: /vacancies
 
 ### 연구 인턴 (학부생)
 
-- 모집 인원: 1명 [(링크)](http://aix.ssu.ac.kr/notice_view.html?idx=1307)
+- 모집 인원: 1명 [(링크)](http://aix.ssu.ac.kr/notice_view.html?idx=1317)
 - 학부생 연구 인턴은 연구 프로젝트에 참여하여 보조적인 역할을 담당하며, 참여도에 따라 국내 또는 국제 논문에 저자로 참여할 기회를 얻게 됩니다.
 
 ### FAQ

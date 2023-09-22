@@ -15,8 +15,8 @@ The Humane Data & Language Technologies (HUMANE) Lab of the School of AI Converg
 ### Research Themes
 
 - Human-Centered Language Technologies
-- Dataset Construction
 - Vision and Language
+- Dataset Construction
 - Data-Centric AI
 - AI + News and Social Media
   + Tackling Online Misinformation

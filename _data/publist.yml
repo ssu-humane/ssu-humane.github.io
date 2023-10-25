@@ -1,15 +1,15 @@
 - title: "ANONYMIZED FOR REVIEW"
-  authors: Chaewon Park, Suhwan Kim, Kyubyong Park, Kunwoo Park
-  link:
-    url: https://ssu-humane.github.io/publications/
-    display: "submitted to EMNLP 2023"
-  highlight: 0
-  
-- title: "ANONYMIZED FOR REVIEW"
   authors: Yejun Yoon, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://ssu-humane.github.io/publications/
-    display: "submitted to EMNLP 2023"
+    display: "submitted to Web Conference 2024"
+  highlight: 0
+
+- title: "K-HATERS: A Hate Speech Detection Corpus in Korean with Target-Specific Ratings"
+  authors: Chaewon Park, Suhwan Kim, Kyubyong Park, Kunwoo Park
+  link:
+    url: https://arxiv.org/abs/2310.15439
+    display: "to appear at EMNLP 2023 Findings"
   highlight: 0
   
 - title: "Perceived masculinity from Facebook photographs of candidates predicts electoral success"

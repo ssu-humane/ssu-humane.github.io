@@ -19,9 +19,10 @@ Human-Centered Data & Language Technologies (HUMANE) Lab of the School of AI Con
 - Dataset Construction
 - AI for Responsible Web
 
-Examples of target problems include but are not limited to:
+Target problems include but are not limited to:
 - Online misinformation
-- Hateful content
+- Hate speech
+- Social bias
 
 ### Contact
 

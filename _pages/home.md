@@ -8,9 +8,11 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202212_송년회.jpg" style="max-width:100%; height:auto;"/>
 
-숭실대학교 AI 융합학부 Human-Centered Data & Language Technologies (HUMANE) 연구실은 딥러닝 언어 기술 및 시각-언어 멀티모달 기술을 연구합니다. 온라인 환경의 사회 문제를 해결하는 사람 가치 중심의 기술을 개발하는 것을 목표하고 있습니다.
+숭실대학교 AI 융합학부 Human-Centered Data & Language Technologies (HUMANE) 연구실은 딥러닝 언어 기술 및 시각-언어 멀티모달 기술을 연구합니다. 
+온라인 환경의 사회 문제를 해결하는 사람 가치 중심의 기술을 개발하는 것을 목표하고 있습니다.
 
-Human-Centered Data & Language Technologies (HUMANE) Lab of the School of AI Convergence at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. Our broad aim is to develop language and multi-modal technologies centered around human values and eventually to tackle online social problems.
+Human-Centered Data & Language Technologies (HUMANE) Lab of the School of AI Convergence at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
+Our research aims to tackle social problems by developing machine-learning technologies centered around human values.
 
 ### Research Themes
 
@@ -22,7 +24,6 @@ Human-Centered Data & Language Technologies (HUMANE) Lab of the School of AI Con
 Target problems include but are not limited to:
 - Online misinformation
 - Hate speech
-- Social bias
 
 ### Contact
 

@@ -1,14 +1,14 @@
 ---
-title: "HUMANE Lab - How to apply"
+title: "HUMANE Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
 
-# 지원 방법
+# 연구실 지원
 
-함께 연구할 self-motivated 학생을 찾습니다. 지원 동기, 성적 (전체/전공), 면담 가능 시간을 담아 이메일(kunwoo.park at ssu.ac.kr)로 지원해 주세요.
+Self-motivated 학생을 찾습니다. 지원 동기, 성적 (전체/전공), 면담 가능 시간 등을 담아 이메일(kunwoo.park at ssu.ac.kr)로 지원해 주세요.
 
 ### 대학원 (석사 과정)
 

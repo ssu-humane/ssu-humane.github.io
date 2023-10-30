@@ -29,7 +29,7 @@ Target problems include but are not limited to:
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
 
-[**(Looking for new members to join our group!)**]({{ site.url }}{{ site.baseurl }}/vacancies)
+[**(대학원생, 학부 연구생을 모집하고 있습니다.)**]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 박 건우 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
 

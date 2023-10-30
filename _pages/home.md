@@ -18,6 +18,7 @@ Our research aims to tackle social problems by developing machine-learning techn
 
 - Human-Centered Language Technologies
 - Multimodal (Vision and Language)
+- Generative AI
 - Dataset Construction
 - AI for Responsible Web
 

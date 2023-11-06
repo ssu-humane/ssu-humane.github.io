@@ -11,8 +11,7 @@
   number_interest: 2
   interest1: Since 2021.7
   interest2: 지능형반도체학과 (BK21)
-  
-  
+    
 - name: Yejun Yoon
   photo: yejun.jpg
   info: Research intern
@@ -20,14 +19,6 @@
   number_interest: 2
   interest1: Since 2021.7
   interest2: AI융합학부
-
-- name: Hanseong Kim
-  photo: hanseong.JPG
-  info: Research intern
-  email: ssukim1201@gmail.com
-  number_interest: 2
-  interest1: Since 2023.3
-  interest2: 산업정보시스템공학과
   
 - name: Hyeonwoo Jung
   photo: hyeonwoo.jpg
@@ -36,5 +27,3 @@
   number_interest: 2
   interest1: Since 2023.3
   interest2: AI융합학부
-
-

@@ -16,13 +16,13 @@ Our research aims to tackle social problems by developing machine-learning techn
 
 ### Research Themes
 
-- Human-centered language technologies
+- Human-Centered Language Technologies
 - Multimodal (Vision and Language)
-- Data-Centric AI, Dataset Construction
+- Data-Centric AI, Resource Construction
 
 Target problems include but are not limited to:
 - Misinformation
-- Hate speech
+- Hate Speech
 
 ### Contact
 

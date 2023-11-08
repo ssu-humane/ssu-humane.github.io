@@ -21,7 +21,7 @@ Our research aims to tackle social problems by developing machine-learning techn
 - Data-Centric AI, Dataset Construction
 
 Target problems include but are not limited to:
-- Online misinformation
+- Misinformation
 - Hate speech
 
 ### Contact

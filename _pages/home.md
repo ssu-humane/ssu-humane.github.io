@@ -16,11 +16,9 @@ Our research aims to tackle social problems by developing machine-learning techn
 
 ### Research Themes
 
-- Human-Centered Language Technologies
+- Human-centered language technologies
 - Multimodal (Vision and Language)
-- Generative AI
-- Dataset Construction
-- AI for Responsible Web
+- Data-Centric AI, Dataset Construction
 
 Target problems include but are not limited to:
 - Online misinformation

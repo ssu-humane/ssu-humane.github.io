@@ -18,7 +18,7 @@ Our research aims to tackle social problems by developing machine-learning techn
 
 - Human-Centered Language Technologies
 - Multimodal (Vision and Language)
-- Data-Centric AI, Resource Construction
+- Data-Centric AI
 
 Target problems include but are not limited to:
 - Misinformation

@@ -17,10 +17,9 @@ Our research aims to tackle social problems by developing machine-learning techn
 ### Research Themes
 
 - Human-Centered Language Technologies
-- Multimodal (Vision and Language)
 - Data-Centric AI
 
-Target problems include but are not limited to:
+The major target problems are 
 - Misinformation
 - Hate Speech
 
@@ -28,7 +27,7 @@ Target problems include but are not limited to:
 
 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
 
-[**(대학원생, 학부 연구생을 모집하고 있습니다.)**]({{ site.url }}{{ site.baseurl }}/vacancies)
+[**(대학원생을 모집하고 있습니다.)**]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 박 건우 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
 

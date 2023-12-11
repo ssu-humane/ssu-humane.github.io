@@ -6,10 +6,10 @@
   highlight: 0
 
 - title: "K-HATERS: A Hate Speech Detection Corpus in Korean with Target-Specific Ratings"
-  authors: Chaewon Park, Suhwan Kim, Kyubyong Park, Kunwoo Park
+  authors: Chaewon Park\*, Suhwan Kim\*, Kyubyong Park, Kunwoo Park
   link:
     url: https://arxiv.org/abs/2310.15439
-    display: "to appear at EMNLP 2023"
+    display: "Empirical Methods in Natural Language Processing (EMNLP), 2023. (BK IF: 3)"
   highlight: 0
   
 - title: "Perceived masculinity from Facebook photographs of candidates predicts electoral success"

@@ -19,9 +19,10 @@ Our research aims to tackle social problems by developing machine-learning techn
 - Human-Centered Language Technologies
 - Data-Centric AI
 
-The major target problems are 
+We mainly tackle social problems using online data, including
 - Misinformation
-- Hate Speech
+- Hate speech
+- Social bias
 
 ### Contact
 

@@ -9,7 +9,7 @@
   info: Master student
   email: kismk8743@gmail.com
   number_interest: 2
-  interest1: 지능형반도체학과
+  interest1: 소속: 지능형반도체학과
   interest2: Contrastive sentence embedding
     
 - name: Yejun Yoon
@@ -17,7 +17,7 @@
   info: Master student
   email: yeayen789@gmail.com
   number_interest: 2
-  interest1: 지능형반도체학과
+  interest1: 소속\: 지능형반도체학과
   interest2: Multimodal
   
 - name: Hyeonwoo Jung
@@ -25,7 +25,7 @@
   info: Research intern
   email: junghw3333@gmail.com
   number_interest: 2
-  interest1: AI융합학부
+  interest1: 소속\: AI융합학부
   interest2: Multimodal
 
 - name: SeungHyeon Kim 
@@ -33,19 +33,19 @@
   info: Undergraduate intern
   email: mcu0102@gmail.com
   number_interest: 1
-  interest1: AI융합학부
+  interest1: 소속\: AI융합학부
 
 - name: Sangmin Lee
   photo: sangmin.png
   info: Undergraduate intern
   email: dauma0604@gmail.com
   number_interest: 1
-  interest1: AI융합학부
+  interest1: 소속\: AI융합학부
 
 - name: Dahyun Lee
   photo: dahyun.jpg
   info: Undergraduate intern
   email: dahyunma@gmail.com
   number_interest: 1
-  interest1: AI융합학부
+  interest1: 소속\: AI융합학부
   

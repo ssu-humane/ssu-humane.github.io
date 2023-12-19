@@ -1,13 +1,13 @@
 - name: Kunwoo Park &#x1F60E;
   photo: kunwoo.jpg
   info: Principal investigator [[more info]](https://bywords.github.io)
-  email: kunwoo.park at ssu.ac.kr
+  email: kunwoo.park@ssu.ac.kr
   number_interest: 0
   
 - name: Seonyeong Song
   photo: sunyoung.jpg
   info: Master student
-  email: kismk8743 at gmail.com
+  email: kismk8743@gmail.com
   number_interest: 2
   interest1: 지능형반도체학과
   interest2: Contrastive sentence embedding
@@ -15,7 +15,7 @@
 - name: Yejun Yoon
   photo: yejun.jpg
   info: Master student
-  email: yeayen789 at gmail.com
+  email: yeayen789@gmail.com
   number_interest: 2
   interest1: 지능형반도체학과
   interest2: Multimodal
@@ -23,7 +23,7 @@
 - name: Hyeonwoo Jung
   photo: hyeonwoo.jpg
   info: Research intern
-  email: junghw3333 at gmail.com
+  email: junghw3333@gmail.com
   number_interest: 2
   interest1: AI융합학부
   interest2: Multimodal
@@ -31,21 +31,21 @@
 - name: SeungHyeon Kim 
   photo: seunghyeon.jpg
   info: Undergraduate intern
-  email: mcu0102 at gmail.com
+  email: mcu0102@gmail.com
   number_interest: 1
   interest1: AI융합학부
 
 - name: Sangmin Lee
   photo: sangmin.png
   info: Undergraduate intern
-  email: dauma0604 at gmail.com
+  email: dauma0604@gmail.com
   number_interest: 1
   interest1: AI융합학부
 
 - name: Dahyun Lee
   photo: dahyun.jpg
   info: Undergraduate intern
-  email: dahyunma at gmail.com
+  email: dahyunma@gmail.com
   number_interest: 1
   interest1: AI융합학부
   

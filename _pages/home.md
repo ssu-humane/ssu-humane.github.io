@@ -6,23 +6,30 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202212_송년회.jpg" style="max-width:100%; height:auto;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202312_KSC.jpg" style="max-width:100%; height:auto;"/>
 
-숭실대학교 AI 융합학부 Human-Centered Data & Language Technologies (HUMANE) 연구실은 딥러닝 언어 기술 및 시각-언어 멀티모달 기술을 연구합니다. 
-온라인 환경의 사회 문제를 해결하는 사람 가치 중심의 기술을 개발하는 것을 목표하고 있습니다.
+**Human-Centered Data & Language Technologies (HUMANE) Lab** at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
+Our research aims to tackle online social problems (e.g., misinformation and hate speech) by developing language (and vision) technologies centered around human values.
+We are also interested in evaluating language-oriented foundational models through the lens of human values for facilitating the development of **human-centered** language technologies.
 
-Human-Centered Data & Language Technologies (HUMANE) Lab of the School of AI Convergence at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
-Our research aims to tackle social problems by developing machine-learning technologies centered around human values.
-
-### Research Themes
+### Research Areas
 
 - Human-Centered Language Technologies
+- Multimodality and Multilinguality
+- Resource and Evaluation
 - Data-Centric AI
+- Computational Social Science
 
-We mainly tackle social problems in online platforms, including 
-- Misinformation
-- Hate speech
-- Social bias
+### Achievements
+
+- Publications at the top-tier conference: EMNLP 2023, ACL 2022, ACL 2021, etc.
+- Paper awards: Best Paper award (2023 한국인공지능학회 하계학술대회), Outstanding Paper award (KSC 2023), Best Presentation award (KCC 2022)
+
+### Funding
+
+- 한국연구재단 기본연구 (책임)
+- 정보통신기획평가원 지역지능화혁신인재양성사업 (세부책임)
+- 한국연구재단 4단계 BK21 사업 (참여)
 
 ### Contact
 
@@ -30,6 +37,6 @@ We mainly tackle social problems in online platforms, including
 
 [**(대학원생을 모집하고 있습니다.)**]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-박 건우 / Kunwoo Park (kunwoo.park at ssu dot ac dot kr)
+Kunwoo Park / 박 건우 (kunwoo.park at ssu dot ac dot kr)
 
  

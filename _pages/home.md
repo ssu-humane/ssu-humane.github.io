@@ -32,7 +32,7 @@ We are also interested in evaluating language-oriented foundational models throu
 
 - 한국연구재단 기본연구 (책임)
 - 정보통신기획평가원 지역지능화혁신인재양성사업 (세부책임)
-- 한국연구재단 4단계 BK21 사업 (참여)
+- 한국연구재단 4단계 BK21 사업 지능형반도체 기반 고효율 자율형 IoT 디바이스 교육연구단 (참여)
 
 ### Contact
 

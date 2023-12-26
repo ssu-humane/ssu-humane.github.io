@@ -12,9 +12,9 @@ permalink: /
 Our research aims to tackle online social problems (e.g., misinformation and hate speech) by developing language and multimodal technologies centered around human values.
 We are also interested in evaluating language-oriented foundational models through the lens of human values for facilitating the development of **human-centered** language technologies.
 
-### Research Areas
+### Research Themes
 
-- Human-Centered Language Technologies
+- (Human-Centered) NLP Applications
 - Multimodality and Multilinguality
 - Resource and Evaluation
 - Data-Centric AI

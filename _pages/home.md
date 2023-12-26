@@ -22,7 +22,7 @@ We are also interested in evaluating language-oriented foundational models throu
 
 ### Achievements
 
-- Publications at the top-tier conference: EMNLP 2023, ACL 2022, ACL 2021, etc.
+- Publications at the top-tier conference: EMNLP 2023, EACL 2023, ACL 2021, etc.
 - Paper awards
   + Best Paper award (2023 한국인공지능학회 하계학술대회)
   + Outstanding Paper award (KSC 2023)

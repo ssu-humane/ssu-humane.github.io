@@ -14,15 +14,13 @@ We are also interested in evaluating language-oriented foundational models throu
 
 ### Research Themes
 
-- (Human-Centered) NLP Applications
-- Multimodality and Multilinguality
+- NLP and Language-oriented Multimodal Applications
 - Resource and Evaluation
 - Computational Social Science
-- Data-Centric NLP
 
 ### Achievements
 
-- Publications at the top-tier conference: EMNLP 2023, EACL 2023, ACL 2021, etc.
+- Publications at the top-tier conferences: EMNLP 2023, EACL 2023, ACL 2021, etc.
 - Paper awards
   + Best Paper award (2023 한국인공지능학회 하계학술대회)
   + Outstanding Paper award (KSC 2023)

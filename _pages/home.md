@@ -32,7 +32,7 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 Kunwoo Park / 박 건우 (kunwoo.park at ssu dot ac dot kr)
 
 - 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
-- [**(대학원생을 모집하고 있습니다.)**]({{ site.url }}{{ site.baseurl }}/vacancies)
+- [**대학원생을 모집하고 있습니다.**]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
  

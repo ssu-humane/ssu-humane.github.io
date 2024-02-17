@@ -5,11 +5,11 @@
     display: "submitted to IEEE Access"
   highlight: 0
 
-- title: "ANONYMIZED FOR REVIEW"
+- title: "Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining"
   authors: Yejun Yoon, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://ssu-humane.github.io/publications/
-    display: "submitted to Web Conference 2024"
+    display: "under review"
   highlight: 0
 
 - title: "K-HATERS: A Hate Speech Detection Corpus in Korean with Target-Specific Ratings"

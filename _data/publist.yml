@@ -1,15 +1,15 @@
-- title: "A Data-Centric Contrastive Embedding Framework for Contextomized Quote Detection"
-  authors: Seonyeong Song, Jiyoung Han, Kunwoo Park
-  link:
-    url: https://ssu-humane.github.io/publications/
-    display: "under review."
-  highlight: 0
-
 - title: "Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining"
   authors: Yejun Yoon, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://arxiv.org/abs/2402.11159
     display: "under review."
+  highlight: 0
+
+- title: "A Data-Centric Contrastive Embedding Framework for Contextomized Quote Detection"
+  authors: Seonyeong Song, Jiyoung Han, Kunwoo Park
+  link:
+    url: https://ieeexplore.ieee.org/document/10472505
+    display: "IEEE Access, 2023 (IF: 3.9)"
   highlight: 0
 
 - title: "K-HATERS: A Hate Speech Detection Corpus in Korean with Target-Specific Ratings"

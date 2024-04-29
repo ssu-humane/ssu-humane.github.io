@@ -23,7 +23,7 @@ permalink: /vacancies
 
 ### 학부 연구생
 
-- 현재는 학부 연구생을 뽑고 있지 않으나, 우리 랩으로 대학원 진학을 희망하는 경우에 한해 학부 연구생 지원을 받고 있습니다.
+- 학부 연구생을 뽑고 있습니다. [[read more]](https://github.com/ssu-humane/ssu-humane.github.io/blob/gh-pages/downloads/202404_HUMANE_openings.pdf)
 
 ### 학부생 방학 인턴
 

@@ -25,11 +25,6 @@ permalink: /vacancies
 
 - 학부 연구생을 뽑고 있습니다. [[read more]](https://github.com/ssu-humane/ssu-humane.github.io/blob/gh-pages/downloads/202404_HUMANE_openings.pdf)
 
-### 학부생 방학 인턴
-
-- 숭실대학교 학부생은 여름, 겨울 방학에 열리는 AI융합학부 인턴 프로그램에 신청할 수 있습니다.
-- 연구실 활동과 분위기 등이 궁금하면 인턴 참여를 권장합니다.
-
 ## Frequently asked questions
 
 Q. 연구실에서는 무슨 활동을 하게 되나요?

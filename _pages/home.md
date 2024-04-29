@@ -8,13 +8,13 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202312_ksc.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Data & Language Technologies (HUMANE) Lab** at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
+**Human-Centered Language & Information Technologies (HUMANE) Lab** at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
 Our research aims to tackle social problems in online platforms (e.g., misinformation and hate speech) by developing language and multimodal technologies centered around human values.
 
 ### Research areas
 
 - NLP and vision-language multimodal technologies: e.g., contrastive pretraining.
-- AI applications for social problems: e.g., hate speech detection, fact verification.
+- AI applications for online social problems: e.g., hate speech detection, fact verification.
 
 ### Achievements
 
@@ -23,7 +23,6 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
   
 ### Ongoing projects
 
-- 한국연구재단 기본연구 (책임)
 - 정보통신기획평가원 지역지능화혁신인재양성사업 (세부책임)
 - 한국연구재단 4단계 BK21 사업 지능형반도체 기반 고효율 자율형 IoT 디바이스 교육연구단 (참여)
 

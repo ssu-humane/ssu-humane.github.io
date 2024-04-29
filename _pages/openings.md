@@ -23,7 +23,7 @@ permalink: /vacancies
 
 ### 학부 연구생
 
-- 학부 연구생을 뽑고 있습니다. [[read more]](https://github.com/ssu-humane/ssu-humane.github.io/blob/gh-pages/downloads/202404_HUMANE_openings.pdf)
+- 학부 연구생을 뽑고 있습니다. [[read more]]({{ site.url }}{{ site.baseurl }}/downloads/202404_HUMANE_openings.pdf)
 
 ## Frequently asked questions
 

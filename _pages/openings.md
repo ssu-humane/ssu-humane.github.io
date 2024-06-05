@@ -23,8 +23,8 @@ permalink: /vacancies
 
 ### 학부 연구생
 
-
-- 학부 연구생을 뽑고 있습니다. [[read more]](https://ssu-humane.github.io/downloads/202404_HUMANE_openings.pdf)
+- 숭실대학교 학부생을 대상으로 연 2회 학부 연구생을 모집합니다 (5월, 11월 경)
+- 참고 자료 (과거 공고 자료): [[링크]](https://ssu-humane.github.io/downloads/202404_HUMANE_openings.pdf)
 
 ## Frequently asked questions
 

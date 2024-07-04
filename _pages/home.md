@@ -18,8 +18,10 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
   
 ### Ongoing projects
 
-- 정보통신기획평가원 지역지능화혁신인재양성사업 (세부책임)
-- 한국연구재단 4단계 BK21 사업 지능형반도체 기반 고효율 자율형 IoT 디바이스 교육연구단 (참여)
+- 정보통신기획평가원 정보통신방송혁신인재양성 지역지능화혁신인재양성 (세부책임)
+- 한국연구재단 4단계 BK21 지능형반도체 기반 고효율 자율형 IoT 디바이스 교육연구단 (참여)
+- 정보통신기획평가원 정보통신방송혁신인재양성 메타버스융합대학원 (참여)
+
 
 ### Contact
 

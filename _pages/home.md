@@ -11,13 +11,13 @@ permalink: /
 **Human-Centered Language & Information Technologies (HUMANE) Lab** at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
 Our research aims to tackle social problems in online platforms (e.g., misinformation, hate speech) by developing LLM-based methods centered around human values.
 
-### Achievements
+### 성과
 
-- 국제 저명 학술대회 논문게재: ACL, EMNLP 등
+- 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
 - 수상: 2023년 한국인공지능학회 하계학술대회 최우수논문상, KSC 2023 우수논문상 등
 
-  
-### Ongoing projects
+
+### 참여 과제
 
 - 정보통신기획평가원 정보통신방송혁신인재양성 지역지능화혁신인재양성 (세부책임)
 - 한국연구재단 4단계 BK21 지능형반도체 교육연구단 (참여)

@@ -13,7 +13,7 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 
 ### Achievements
 
-- 국제 저명 학술대회 논문게재: ACL, EMNLP, etc.
+- 국제 저명 학술대회 논문게재: ACL, EMNLP 등
 - 수상: 2023년 한국인공지능학회 하계학술대회 최우수논문상, KSC 2023 우수논문상 등
 
   

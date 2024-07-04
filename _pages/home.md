@@ -14,7 +14,7 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 ### 성과
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
-- 논문상 수상: 한국인공지능학회 2023 하계학술대회 최우수논문상, KSC 2023 우수논문상 등
+- 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상 등
 - 경진대회 입상: 서울대 컴퓨터공학부-업스테이지 LLM 프로젝트 해커톤 (1위)
 
 ### 참여 과제

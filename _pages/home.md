@@ -13,8 +13,9 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 
 ### Achievements
 
-- Publications at the top-tier conferences: EMNLP 2023, EACL 2023, ACL 2021, etc.
-- Paper awards: 2023년 한국인공지능학회 하계학술대회 최우수 논문상, 한국정보과학회 KSC 2023 우수논문상 등
+- 국제 저명 학술대회 논문게재: ACL, EMNLP, etc.
+- 수상: 2023년 한국인공지능학회 하계학술대회 최우수논문상, KSC 2023 우수논문상 등
+
   
 ### Ongoing projects
 

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202312_ksc.jpg" style="max-width:100%; height:auto;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
 **Human-Centered Language & Information Technologies (HUMANE) Lab** at Soongsil University studies deep learning-based language technologies and vision-language multimodal methods. 
 Our research aims to tackle social problems in online platforms (e.g., misinformation, hate speech) by developing LLM-based methods centered around human values.

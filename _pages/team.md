@@ -38,16 +38,8 @@ permalink: /team/
   
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+## Alumni
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+- 송 선영 (Seonyeong Song), MS, 2024.8
+- 박 채원 (Chaewon Park), BS, 2024.2
 

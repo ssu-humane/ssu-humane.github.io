@@ -54,6 +54,6 @@ permalink: /team/
 ## Alumni
 
 - 송 선영 (Seonyeong Song), MS, 2024.8
-- 정 현우 (Hyeonwoo Jeong), BS
+- 정 현우 (Hyeonwoo Jung), BS
 - 박 채원 (Chaewon Park), BS, 2024.2
 

@@ -53,7 +53,7 @@ permalink: /team/
 
 ## Alumni
 
-- 송 선영 (Seonyeong Song), MS, 2024.8 (Current position: Korea Telecom)
+- 송 선영 (Seonyeong Song), MS, 2024.8 (Currently at Korea Telecom)
 - 정 현우 (Hyeonwoo Jung), BS
 - 박 채원 (Chaewon Park), BS, 2024.2
 

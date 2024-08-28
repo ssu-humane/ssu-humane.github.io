@@ -15,7 +15,7 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
 - 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상 등
-- 경진대회 입상: 서울대 컴퓨터공학부-업스테이지 LLM 프로젝트 해커톤 (1위)
+- [2nd place](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655) at the AVeriTeC shared task hosted by the [FEVER](https://fever.ai/workshop.html) workshop
 
 ### 참여 과제
 

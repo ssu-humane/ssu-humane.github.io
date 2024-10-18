@@ -2,7 +2,7 @@
   authors: Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://arxiv.org/abs/2410.12377
-    display: "Seventh Workshop on Fact Extraction and VERification (FEVER), 2024."
+    display: "Seventh Workshop on Fact Extraction and VERification (FEVER), 2024. (co-located with EMNLP)"
   highlight: 0
 
 - title: "Assessing News Thumbnail Representativeness: Counterfactual text can enhance the cross-modal matching ability"

@@ -16,12 +16,18 @@
   info: Master student
   email: dahyunma@gmail.com
   number_interest: 1
-  interest1: 문화컨텐츠학과
+  interest1: 메타버스문화컨텐츠학과
   
 - name: 김 태균 (Taegyun Kim)
   photo: Taegyun.jpg
-  info: Undergraduate intern
+  info: Master student (to-be)
   email: tgkim980605@gmail.com
+  number_interest: 0
+
+- name: 최 종현 (Jong Hyeon Choi)
+  photo: jonghyeon.jpg
+  info: Master studnet (to-be)
+  email: jhyeonc01@gmail.com
   number_interest: 0
 
 - name: 박 현빈 (Hyeonbin Park)
@@ -40,10 +46,4 @@
   photo: Jaeyoon.jpg
   info: Undergraduate intern
   email: lastdefiance20@gmail.com
-  number_interest: 0
-
-- name: 최 종현 (Jong Hyeon Choi)
-  photo: jonghyeon.jpg
-  info: Research intern
-  email: jhyeonc01@gmail.com
   number_interest: 0

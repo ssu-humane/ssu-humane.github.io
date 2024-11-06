@@ -23,7 +23,6 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 - NRF 4단계 BK21 지능형반도체 교육연구단 (참여)
 - IITP 정보통신방송혁신인재양성 메타버스융합대학원 (참여)
 
-
 ### Contact
 
 Kunwoo Park / 박 건우 (kunwoo.park at ssu dot ac dot kr)

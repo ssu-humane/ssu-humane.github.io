@@ -2,21 +2,21 @@
   authors: Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://arxiv.org/abs/2410.12377
-    display: "Seventh Workshop on Fact Extraction and VERification (FEVER), 2024. (co-located with EMNLP)"
+    display: "EMNLP Workshop (FEVER), 2024."
   highlight: 0
 
 - title: "Assessing News Thumbnail Representativeness: Counterfactual text can enhance the cross-modal matching ability"
   authors: Yejun Yoon, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://aclanthology.org/2024.findings-acl.534/
-    display: "Annual Meetings for Association for Computational Linguistics (ACL), 2024. (BK IF: 4)"
+    display: "ACL Findings, 2024. (BK IF: 4)"
   highlight: 0
 
 - title: "ChatGPT Rates Natural Language Explanation Quality Like Humans: But on Which Scales?"
   authors: Fan Huang, Haewoon Kwak, Kunwoo Park, Jisun An
   link:
     url: https://aclanthology.org/2024.lrec-main.277/
-    display: "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024 (BK IF: 2)"
+    display: "LREC-COLING, 2024 (BK IF: 2)"
   highlight: 0
 
 - title: "A Data-Centric Contrastive Embedding Framework for Contextomized Quote Detection"
@@ -30,7 +30,7 @@
   authors: Chaewon Park\*, Suhwan Kim\*, Kyubyong Park, Kunwoo Park
   link:
     url: https://aclanthology.org/2023.findings-emnlp.952/
-    display: "Empirical Methods in Natural Language Processing (EMNLP), 2023. (BK IF: 3)"
+    display: "EMNLP findings, 2023. (BK IF: 3)"
   highlight: 0
   
 - title: "Perceived masculinity from Facebook photographs of candidates predicts electoral success"
@@ -44,7 +44,7 @@
   authors: Seonyeong Song, Hyeonho Song, Kunwoo Park, Jiyoung Han, Meeyoung Cha
   link:
     url: https://aclanthology.org/2023.findings-eacl.52/
-    display: "European Chapter of the Association for Computational Linguistics (EACL), 2023. (BK IF: 2)"
+    display: "EACL Findings, 2023. (BK IF: 2)"
   highlight: 0
 
 - title: "How Information Flows from the World to China"
@@ -58,14 +58,14 @@
   authors: Haewoon Kwak, Jisun An, Kunwoo Park
   link:
     url: https://ojs.aaai.org/index.php/ICWSM/article/view/19397
-    display: International AAAI Conference on Web and Social Media (ICWSM), 2022.
+    display: ICWSM, 2022. (KIISE A)
   highlight: 0
 
 - title: "How does fake news use a thumbnail? CLIP-based Multimodal Detection on the Unrepresentative News Image"
   authors: Hyewon Choi\*, Yejun Yoon\*, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://aclanthology.org/2022.constraint-1.10/
-    display: ACL Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situations (ACL-W), 2022.
+    display: ACL Workshop (CONSTRAINTS), 2022.
   highlight: 0
 
 - title: "Finding epic moments in live content through deep learning on collective decisions"
@@ -79,7 +79,7 @@
   authors: Kunwoo Park, Zhufeng Pan, Jungseock Joo
   link:
     url: https://aclanthology.org/2021.findings-acl.358/
-    display: "Annual Meetings for Association for Computational Linguistics (ACL), 2021. (BK IF: 4)"
+    display: "ACL Findings, 2021. (BK IF: 4)"
   highlight: 0
   
 - title: "How-to Present News on Social Media: A Causal Analysis of Editing News Headlines for Boosting User Engagement
@@ -87,7 +87,7 @@
   authors: Kunwoo Park, Haewoon Kwak, Jisun An, Sanjay Chawla
   link:
     url: https://ojs.aaai.org/index.php/ICWSM/article/view/18078
-    display: International AAAI Conference on Web and Social Media (ICWSM), 2021.
+    display: ICWSM, 2021. (KIISE A)
   highlight: 0
   
 - title: "Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network"

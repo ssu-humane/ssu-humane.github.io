@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-:fire: **(2024/11/27) 학부 연구생을 모집하고 있습니다.** [[**Link**]](https://ssu-humane.github.io/downloads/202411_HUMANE_openings.pdf) :fire:
+**(2024/11/27) 학부 연구생을 모집하고 있습니다.** [[**Link**]](https://ssu-humane.github.io/downloads/202411_HUMANE_openings.pdf)
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>

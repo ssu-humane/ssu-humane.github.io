@@ -23,10 +23,10 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 
 ### 언론 보도
 
-- 카카오, '2024 공공선 융합 포럼'서 디지털 안전 관련 학계와 소통 (디지털투데이) [[링크]](https://www.digitaltoday.co.kr/news/articleView.html?idxno=522869)
-- 튜닙-숭실대 공동 연구팀, EMNLP 2023 파인딩스에 논문 게재 (IT Daily) [[링크]](http://www.itdaily.kr/news/articleView.html?idxno=217558)
-- 숭실대 윤예준 학부생, 2023 한국인공지능학회 하계학술대회 현대자동차 최우수논문상 수상 (조선일보) [[링크]](https://news.chosun.com/pan/site/data/html_dir/2023/08/03/2023080300950.html)
-- \[Q플러스\] AI가 기사 쓰고 팩트체크까지...기자는 사라질까? (KBS) [[링크]](https://www.youtube.com/watch?v=Wdpxrgd5XfI&t=409s)
+- 카카오, '2024 공공선 융합 포럼'서 디지털 안전 관련 학계와 소통 ([디지털투데이](https://www.digitaltoday.co.kr/news/articleView.html?idxno=522869))
+- 튜닙-숭실대 공동 연구팀, EMNLP 2023 파인딩스에 논문 게재 ([IT Daily](http://www.itdaily.kr/news/articleView.html?idxno=217558))
+- 숭실대 윤예준 학부생, 2023 한국인공지능학회 하계학술대회 현대자동차 최우수논문상 수상 ([조선일보](https://news.chosun.com/pan/site/data/html_dir/2023/08/03/2023080300950.html))
+- \[Q플러스\] AI가 기사 쓰고 팩트체크까지...기자는 사라질까? ([KBS](https://www.youtube.com/watch?v=Wdpxrgd5XfI&t=409s))
 
 
 ### 참여 과제

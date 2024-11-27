@@ -6,6 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+:fire: **(2024/11/27) 학부 연구생을 모집하고 있습니다.** [[**Link**]](https://ssu-humane.github.io/downloads/202411_HUMANE_openings.pdf) :fire:
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
 **Human-Centered Language & Information Technologies (HUMANE) Lab** at Soongsil University studies NLP and multimodal technologies based on large language models.
@@ -39,8 +42,6 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 
 Kunwoo Park / 박 건우 (kunwoo.park at ssu dot ac dot kr)
 
-- 연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
-- [**Open Positions**]({{ site.url }}{{ site.baseurl }}/vacancies)
-
+연구 협업, 산학 협력 등 다양한 형태의 협업을 환영합니다.
 
  

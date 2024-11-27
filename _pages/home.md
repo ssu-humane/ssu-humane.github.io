@@ -19,7 +19,7 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
 - 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상 등
-- 경진대회 수상: 세계 인공지능 팩트체킹 대회 [2위](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655) (hosted by the [FEVER](https://fever.ai/workshop.html) co-located with EMNLP 2024)
+- 경진대회 수상: 세계 인공지능 팩트체킹 대회 [2위](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655) (co-located with EMNLP 2024)
 
 ### 언론 보도
 

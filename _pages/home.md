@@ -29,7 +29,7 @@ Our research aims to tackle social problems in online platforms (e.g., misinform
 - \[Q플러스\] AI가 기사 쓰고 팩트체크까지...기자는 사라질까? ([KBS](https://www.youtube.com/watch?v=Wdpxrgd5XfI&t=409s))
 
 
-### 연구 과제
+### Funding
 
 - IITP 정보통신방송혁신인재양성 지역지능화혁신인재양성 (세부책임)
 - NRF 4단계 BK21 지능형반도체 교육연구단 (참여)

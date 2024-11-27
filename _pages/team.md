@@ -51,7 +51,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Alumni
+## Alumni (members with +1 years)
 
 - 송 선영, MS, 2024.8 (Currently at Korea Telecom)
 - 정 현우, BS

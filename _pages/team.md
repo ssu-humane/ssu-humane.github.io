@@ -55,5 +55,6 @@ permalink: /team/
 
 - 송 선영, MS, 2024.8 (Currently at Korea Telecom)
 - 정 현우, BS
+- 안 제준, BS
 - 박 채원, BS, 2024.2
 

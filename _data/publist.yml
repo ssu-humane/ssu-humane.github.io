@@ -58,7 +58,7 @@
   authors: Haewoon Kwak, Jisun An, Kunwoo Park
   link:
     url: https://ojs.aaai.org/index.php/ICWSM/article/view/19397
-    display: ICWSM, 2022. (정보과학회 A)
+    display: ICWSM, 2022. (한국정보과학회 기준 A급)
   highlight: 0
 
 - title: "How does fake news use a thumbnail? CLIP-based Multimodal Detection on the Unrepresentative News Image"
@@ -87,7 +87,7 @@
   authors: Kunwoo Park, Haewoon Kwak, Jisun An, Sanjay Chawla
   link:
     url: https://ojs.aaai.org/index.php/ICWSM/article/view/18078
-    display: ICWSM, 2021. (정보과학회 A)
+    display: ICWSM, 2021. (한국정보과학회 기준 A급)
   highlight: 0
   
 - title: "Learning to Detect Incongruence in News Headline and Body Text via a Graph Neural Network"

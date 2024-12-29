@@ -6,13 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-&#128293; **(2024/11/27) 학부 연구생을 모집하고 있습니다.** [[**Link**]](https://ssu-humane.github.io/downloads/202411_HUMANE_openings.pdf) &#128293;
-
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Language & Information Technologies (HUMANE) Lab** at Soongsil University studies NLP and multimodal technologies based on large language models.
-Our research aims to tackle social problems in online platforms (e.g., misinformation, hate speech, bias) by developing learning and inference methods centered around human values.
+**Human-Centered Language & Information Technologies (HUMANE) Lab** at Soongsil University studies NLP and multimodal technologies based on large language models. Our research aims to tackle social problems in online platforms (e.g., misinformation, hate speech, bias) by developing learning and inference methods centered around human values.
 
 숭실대학교 **인간-중심 언어 및 정보 기술 (휴메인) 랩**은 대규모 언어 모델 기반의 자연어처리 및 멀티모달 인공지능 기술을 연구합니다.
 사람 가치 중심의 학습 및 추론 방법을 개발하여 온라인 플랫폼에서 나타나는 사람과 사회에 관련된 문제(예. 오정보, 혐오, 편향)를 해결하는 것을 목표합니다. 

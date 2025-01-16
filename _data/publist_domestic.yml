@@ -1,3 +1,10 @@
+- title: "자동화 팩트체킹 연구 동향: 벤치마크 데이터셋 중심으로"
+  authors: 박건우
+  link:
+    url: https://ssu-humane.github.io/downloads/2025-01-정보과학회지-자동화 팩트체킹 연구 동향.pdf
+    display: 한국정보과학회 정보과학회지, 2025. 
+  highlight: 0
+
 - title: "맥락 품질을 고려한 검색 증강 생성: 한국어 기반 자동화 팩트체킹을 중심으로"
   authors: 송선영, 윤예준, 박건우
   link:
@@ -43,7 +50,7 @@
 - title: "자연어처리 모델의 예측 편향, 어디에서 왔을까?"
   authors: 박건우
   link:
-    url: https://www.kiise.or.kr/admin/file/get/a9667581-818f-4a71-86af-559e8c46cdc4
+    url: https://ssu-humane.github.io/downloads/2022-11-정보과학회지-NLP편향.pdf
     display: 한국정보과학회 정보과학회지, 2022. 
   highlight: 0
 

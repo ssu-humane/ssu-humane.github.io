@@ -8,15 +8,16 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Language & Multimodal Intelligence (HUMANE) Lab** at Soongsil University focuses on advancing AI technologies powered by large language models and multimodal approaches. Our research aims to address societal challenges on online platforms—such as misinformation, hate speech, and bias—by developing AI methods that effectively integrate and analyze diverse data modalities (e.g., text, images) to promote safe and trustworthy AI.
+**Human-Centered Language & Multimodal Intelligence (HUMANE) Lab** at Soongsil University focuses on advancing AI technologies powered by large language models (LLMs) and multimodal methods. 
+Our research aims to address societal challenges on online platforms—such as misinformation, hate speech, and bias—by developing AI methods that effectively integrate and analyze diverse data modalities (e.g., text, images) to promote safe and trustworthy AI.
 
-숭실대학교 Human-Centered Language & Multimodal Intelligence (HUMANE) Lab는 대규모 언어 모델과 멀티모달 접근법을 기반으로 인공지능 기술을 발전시키는 데 주력하고 있습니다. 저희 연구실은 온라인 플랫폼에서 발생하는 허위 정보, 혐오 발언, 편향성과 같은 사회적 문제를 해결하기 위해 텍스트, 이미지 등 다양한 데이터 형태를 효과적으로 통합하고 분석할 수 있는 AI 방법론을 개발하며, 안전하고 신뢰할 수 있는 인공지능을 구현하는 것을 목표로 합니다.
+숭실대학교 인간 중심 언어 및 멀티모달 지능 연구실(HUMANE Lab)은 대규모 언어 모델과 멀티모달 접근에 기반한 인공지능 기술 발전에 주력하고 있습니다. 
+저희 연구실은 온라인 플랫폼에서 발생하는 허위 정보, 혐오 발언, 편향성과 같은 사회적 문제를 해결하기 위해 텍스트와 이미지 등 다양한 데이터 형태를 효과적으로 통합하고 분석할 수 있는 AI 방법론을 개발하여 안전하고 신뢰할 수 있는 인공지능을 구현하는 것을 목표로 합니다.
 
 ### 주요 연구 기술
 
 - Retrieval-Augmented Generation
-- Prompt Engineering and Fine-Tuning
-- Contrastive Representation Learning
+- Fine-Tuning and Adaptation for LLMs/VLMs
 
 
 ### 성과

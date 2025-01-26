@@ -12,7 +12,7 @@ permalink: /
 Our research aims to address societal challenges—such as misinformation, hate speech, and bias—by developing human-centered AI methods and curating high-quality datasets.
 
 숭실대학교 인간 중심 언어 및 멀티모달 기술 연구실(HUMANE Lab)은 대규모 언어 모델(LLMs)과 비전-언어 모델(VLMs)을 기반으로 한 인공지능 기술의 발전에 주력하고 있습니다.
-저희 연구실은 허위 정보, 혐오 발언, 편향성과 같은 사회적 문제를 해결하기 위해 인간 중심의 AI 방법론을 개발하고, 고품질 데이터셋을 구성하는 연구를 수행하고 있습니다.
+저희 연구실은 허위 정보, 혐오 발언, 편향성과 같은 사회적 문제를 해결하기 위해 인간 중심의 AI 방법론을 개발하고, 고품질 데이터셋을 구축하는 연구를 수행하고 있습니다.
 
 ### 주요 연구 기술
 

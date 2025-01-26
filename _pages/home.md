@@ -11,7 +11,7 @@ permalink: /
 **Human-Centered Language & Multimodal Intelligence (HUMANE) Lab** at Soongsil University focuses on advancing AI technologies powered by large language models (LLMs) and vision language models (VLMs). 
 Our research aims to address critical societal challenges—such as misinformation, hate speech, and bias—by curating high-quality datasets, advancing human-centered AI methods, and leveraging real-world data to deliver impactful insights.
 
-숭실대학교 인간 중심 언어 및 멀티모달 기술 연구실(HUMANE Lab)은 대규모 언어 모델(LLMs)과 비전-언어 모델(VLMs)을 기반으로 한 인공지능 기술의 발전에 주력하고 있습니다.
+숭실대학교 인간 중심 언어 및 멀티모달 지능 연구실(HUMANE Lab)은 대규모 언어 모델(LLMs)과 비전-언어 모델(VLMs)을 기반으로 한 인공지능 기술의 발전에 주력하고 있습니다.
 저희 연구실은 허위 정보, 혐오 발언, 편향성과 같은 중요한 사회적 문제를 해결하기 위해 고품질 데이터셋을 구축하고, 인간 중심의 AI 방법론을 발전시키며, 실세계 데이터를 활용하여 실질적이고 의미 있는 통찰을 제공하는 것을 목표로 하고 있습니다.
 
 ### 주요 연구 기술

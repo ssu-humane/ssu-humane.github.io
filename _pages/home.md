@@ -8,11 +8,16 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University studies AI technologies powered by large language models and multimodal language models. 
-Our research aims to address critical societal challenges—such as misinformation, hate speech, and social bias—by curating high-quality datasets, advancing human-centered AI methods, and leveraging real-world data.
+**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University studies NLP and multimodal AI technologies. 
+Our research aims to address critical societal challenges—such as misinformation, hate speech, and bias—by curating high-quality datasets, advancing human-centered AI methods, and leveraging real-world data.
 
-숭실대학교 인간 중심 언어 및 데이터 지능 연구실 (HUMANE Lab)은 대규모 언어 모델 및 멀티모달 언어 모델을 기반으로 한 AI 기술을 연구합니다.
-우리의 연구는 고품질 데이터셋을 구축하고, 인간 중심의 AI 기법을 발전시키며, 실제 데이터를 활용하여 허위 정보, 혐오 발언, 사회적 편향성과 같은 중요한 사회적 문제를 해결하는 것을 목표로 합니다.
+숭실대학교 인간 중심 언어 및 데이터 지능 연구실 (HUMANE Lab)은 자연어 처리 및 멀티모달 인공지능 기술을 연구합니다.
+허위 정보, 혐오 발언, 편향과 같은 사회 난제를 해결하는 것을 목표하며, 연구를 위해 고품질 데이터셋을 구축하고, 사람 중심의 AI 방법을 발전시키고, 실 세계 데이터를 활용합니다.
+
+### 주요 연구 분야 
+
+- AI for social good: automated fact-checking, stance detection, etc.
+- LLM: adaption, alignment, multimodal, retrieval-augmented generation, etc.
 
 ### 성과
 

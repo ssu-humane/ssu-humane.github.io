@@ -8,16 +8,11 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University focuses on developing AI technologies powered by large language models (LLMs) and vision language models (VLMs). 
-Our research aims to address critical societal challenges—such as misinformation, hate speech, and bias—by curating high-quality datasets, advancing human-centered AI methods, and leveraging real-world data to deliver impactful insights.
+**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University studies AI technologies powered by large language models and multimodal language models. 
+Our research aims to address critical societal challenges—such as misinformation, hate speech, and social bias—by curating high-quality datasets, advancing human-centered AI methods, and leveraging real-world data.
 
-숭실대학교 인간 중심 언어 및 데이터 지능 연구실(HUMANE Lab)은 대규모 언어 모델(LLMs)과 비전-언어 모델(VLMs)을 기반으로 한 인공지능 기술을 주로 연구하고 있습니다.
-허위 정보, 혐오 발언, 편향성과 같은 중요한 사회적 문제를 해결하기 위해 고품질 데이터셋을 구축하고, 인간 중심의 AI 방법론을 발전시키며, 실세계 데이터를 활용하여 실질적이고 의미 있는 통찰을 제공하는 것을 목표로 하고 있습니다.
-
-### 주요 연구 기술
-
-- Retrieval-Augmented Generation
-- Fine-Tuning and Adaptation for LLMs/VLMs
+숭실대학교 인간 중심 언어 및 데이터 지능 연구실 (HUMANE Lab)은 대규모 언어 모델 및 멀티모달 언어 모델을 기반으로 한 AI 기술을 연구합니다.
+우리의 연구는 고품질 데이터셋을 구축하고, 인간 중심의 AI 기법을 발전시키며, 실제 데이터를 활용하여 허위 정보, 혐오 발언, 사회적 편향성과 같은 중요한 사회적 문제를 해결하는 것을 목표로 합니다.
 
 ### 성과
 
@@ -32,7 +27,6 @@ Our research aims to address critical societal challenges—such as misinformati
 - 튜닙-숭실대 공동 연구팀, EMNLP 2023 파인딩스에 논문 게재 ([IT Daily](http://www.itdaily.kr/news/articleView.html?idxno=217558))
 - 숭실대 윤예준 학부생, 2023 한국인공지능학회 하계학술대회 현대자동차 최우수논문상 수상 ([조선일보](https://news.chosun.com/pan/site/data/html_dir/2023/08/03/2023080300950.html))
 - \[Q플러스\] AI가 기사 쓰고 팩트체크까지...기자는 사라질까? ([KBS](https://www.youtube.com/watch?v=Wdpxrgd5XfI&t=409s))
-
 
 ### Funding
 

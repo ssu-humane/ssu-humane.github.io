@@ -18,19 +18,18 @@
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
   
-- name: 김 태균 (Taegyun Kim)
-  photo: Taegyun.jpg
-  info: Master student
-  email: tgkim980605@gmail.com
-  number_interest: 1
-  interest1: 지능형반도체학과
-
 - name: 최 종현 (Jong Hyeon Choi)
   photo: jonghyeon.jpg
   info: Master student
   email: jhyeonc01@gmail.com
   number_interest: 1
   interest1: 지능형반도체학과
+
+- name: 김 태균 (Taegyun Kim)
+  photo: Taegyun.jpg
+  info: Research intern
+  email: tgkim980605@gmail.com
+  number_interest: 0
 
 - name: 박 현빈 (Hyeonbin Park)
   photo: Hyeonbin.jpg

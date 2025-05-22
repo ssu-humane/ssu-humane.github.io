@@ -24,9 +24,7 @@ permalink: /vacancies
 
 ### 학부 연구생
 
-- 현재 학부 연구생을 모집하고 있지 않습니다.
-- 주로 학기말 학부 연구생을 공개 모집하며, AI융합학부 자연언어처리 교과 수강생 정도의 사전지식을 요구합니다.
-- 과거 모집 자료: [[링크]](https://ssu-humane.github.io/downloads/202411_HUMANE_openings.pdf)
+**(2025.06.13 마감) 학부 연구생 모집중입니다. 많은 관심 바랍니다. [[링크]](https://ssu-humane.github.io/downloads/202505_HUMANE_openings.pdf)**
 
 ## Frequently asked questions
 

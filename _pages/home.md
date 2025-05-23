@@ -16,14 +16,14 @@ Our research aims to address critical societal challenges—such as misinformati
 
 ### 주요 연구 분야 
 
-- AI for social good: automated fact-checking, stance detection, etc.
-- LLM: adaptation, alignment, multimodal, retrieval-augmented generation, etc.
+- AI for social good: automated fact-checking, stance detection, hate speech detection, etc.
+- LLM: retrieval-augmented generation, multimodal, adaptation, alignment, etc.
 
 ### 성과
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
 - 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상 등
-- 경진대회 수상: 세계 인공지능 팩트체킹 대회 [2위](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655) (co-located with EMNLP 2024)
+- 경진대회 수상: 세계 인공지능 팩트체킹 대회 입상 - [2025(2위)](https://fever.ai/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
 
 ### 언론 보도
 

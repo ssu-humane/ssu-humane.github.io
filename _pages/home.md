@@ -16,7 +16,7 @@ Our research aims to address critical societal challenges—such as misinformati
 
 ### 주요 연구 분야 
 
-- **AI for social good**: automated fact-checking, stance detection, hate speech detection, etc.
+- **AI for social good**: fact verification, stance detection, hate speech detection, etc.
 - **LLM**: retrieval-augmented generation, multimodal, alignment, etc.
 
 ### 성과

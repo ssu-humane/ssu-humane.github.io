@@ -2,7 +2,7 @@
   authors: Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park
   link:
     url: https://arxiv.org/abs/2504.14175
-    display: "arxiv preprint, 2025."
+    display: "ACL Findings, 2025. (BK IF: 4, to appear)"
   highlight: 0
 
 - title: "HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims"
@@ -37,7 +37,7 @@
   authors: Chaewon Park\*, Suhwan Kim\*, Kyubyong Park, Kunwoo Park
   link:
     url: https://aclanthology.org/2023.findings-emnlp.952/
-    display: "EMNLP findings, 2023. (BK IF: 3)"
+    display: "EMNLP Findings, 2023. (BK IF: 3)"
   highlight: 0
   
 - title: "Perceived masculinity from Facebook photographs of candidates predicts electoral success"

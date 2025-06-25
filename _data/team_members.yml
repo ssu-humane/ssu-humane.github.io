@@ -14,53 +14,63 @@
 - name: 이 다현 (Dahyun Lee)
   photo: dahyun.jpg
   info: Master student
+  email: dahyunma@gmail.com
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
   
 - name: 최 종현 (Jong Hyeon Choi)
   photo: jonghyeon.jpg
   info: Master student
+  email: jhyeonc01@gmail.com
   number_interest: 1
   interest1: 지능형반도체학과
 
 - name: 김 태균 (Taegyun Kim)
   photo: Taegyun.jpg
   info: Master student
+  email: tgkim980605@gmail.com
   number_interest: 1
   interest1: 지능형반도체학과
 
 - name: 고 경빈 (Kyungbin Ko)
   photo: Kyungbin.jpg
   info: Master student
+  email: bin990616@gmail.com
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
 
 - name: 박 현빈 (Hyeonbin Park)
   photo: Hyeonbin.jpg
   info: Undergraduate intern
+  email: phyeonbin01@gmail.com
   number_interest: 0
 
 - name: 정 재윤 (Jaeyoon Jung)
   photo: Jaeyoon.jpg
   info: Undergraduate intern
+  email: lastdefiance20@gmail.com
   number_interest: 0
 
 - name: 김 건수 (Geonsu Kim)
   photo: Geonsu.jpg
   info: Undergraduate intern
+  email: kundoo0412@gmail.com
   number_interest: 0
 
 - name: 허 윤서 (Yunseo Huh)
   photo: Yunseo.jpg
   info: Undergraduate intern
+  email: yunseo.lab@gmail.com
   number_interest: 0
 
 - name: 이 상준 (Sangjun Lee)
   photo: sangjun.jpeg
   info: Undergraduate intern
+  email: sangjun.lab@gmail.com
   number_interest: 0
 
 - name: 류 승희 (Seunghee Ryu)
   photo: seunghee.jpg
   info: Undergraduate intern
+  email: rugkqjem@gmail.com
   number_interest: 0

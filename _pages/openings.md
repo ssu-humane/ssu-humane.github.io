@@ -25,7 +25,7 @@ permalink: /vacancies
 ### 학부 연구생
 
 - 현재 학부 연구생을 모집하고 있지 않습니다.
-- 석/박사 지원을 위해 학부 연구생으로 참여하고자 하는 경우 메일로 연락주세요.
+- 6/12월 경 학부 연구생을 공개 모집하며, 석/박사 지원을 위해 학부 연구생으로 참여하고자 하는 경우 메일로 연락주세요.
 - 과거 모집 요강: **[[링크]](https://ssu-humane.github.io/downloads/202505_HUMANE_openings.pdf)**
 
 ## Frequently asked questions

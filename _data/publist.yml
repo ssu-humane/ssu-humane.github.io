@@ -8,15 +8,15 @@
 - title: "Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification"
   authors: Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park
   link:
-    url: http://arxiv.org/abs/2507.11004
-    display: "ACL Workshop (FEVER), 2025. (to appear)"
+    url: https://aclanthology.org/2025.fever-1.16/
+    display: "ACL Workshop (FEVER), 2025."
   highlight: 0
 
 - title: "Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion"
   authors: Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park
   link:
-    url: https://arxiv.org/abs/2504.14175
-    display: "ACL Findings, 2025. (BK IF: 4, to appear)"
+    url: https://aclanthology.org/2025.findings-acl.980/
+    display: "ACL Findings, 2025. (BK IF: 4)"
   highlight: 0
 
 - title: "HerO at AVeriTeC: The Herd of Open Large Language Models for Verifying Real-World Claims"

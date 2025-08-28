@@ -1,5 +1,5 @@
 - date: Aug 21th, 2025
-  headline: "Our paper has been accepted to EMNLP 2025 (Main). We introduce an agentic in-context learning method designed to address long-context challenges in news stance detection."
+  headline: "Our paper has been accepted to EMNLP 2025. We present an agentic in-context learning method that addresses long-context challenges in news stance detection, along with a novel dataset."
 
 - date: May 16th, 2025
   headline: "Our paper has been accepted to ACL 2025 (Findings), uncovering potential data leakage in LLM-based query expansion and highlighting its limitations for real-world fact verification."

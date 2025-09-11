@@ -8,11 +8,11 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University studies data-centric language and multimodal AI technologies.
+**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University studies LLM-based language and multimodal AI technologies.
 Our vision is to develop AI systems that are deeply aware of social contexts, addressing pressing challenges such as misinformation and bias, and ultimately making a positive impact on society.
 We primarily present our research at top-tier international conferences on language and data intelligence, including ACL and EMNLP.
 
-숭실대학교 **인간 중심 언어 및 데이터 지능 (휴메인) 연구실**은 데이터 중심의 언어 및 멀티모달 인공지능(AI) 기술을 연구합니다.
+숭실대학교 **인간 중심 언어 및 데이터 지능 (휴메인) 연구실**은 LLM 기반의 언어 및 멀티모달 인공지능(AI) 기술을 연구합니다.
 우리 연구실의 비전은 사회 맥락을 잘 이해하는 AI를 개발하여, 허위 정보, 편향 등 사회 난제를 해결하며, 궁극적으로 사회에 긍정적인 변화를 만들어내는 것입니다.
 Top-tier 언어 및 데이터 지능 국제학술대회(ACL, EMNLP 등)에 주로 논문을 발표하고 있습니다.
 

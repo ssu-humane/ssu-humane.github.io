@@ -19,7 +19,7 @@ Top-tier 언어 및 데이터 지능 국제학술대회(ACL, EMNLP 등)에 주�
 ### 주요 연구 분야 
 
 - **AI for Social Good**: fact verification, stance detection, bias mitigation, etc.
-- **Language Intelligence**: retrieval-augmented generation, post-training, vision and language, dataset curation, etc.
+- **Language Intelligence**: post-training, retrieval augmentation, alignment, domain adaptation, vision and language, dataset curation, etc.
 
 ### 핵심 성과
 

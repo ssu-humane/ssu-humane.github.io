@@ -8,22 +8,24 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**Human-Centered Language & Data Intelligence (HUMANE) Lab** at Soongsil University studies data-centric language and multimodal AI technologies. 
-Our research aims to address critical societal challenges—such as misinformation, hate speech, and bias—by curating high-quality datasets, advancing human-centered AI methods, and leveraging real-world data.
+Human-Centered Language & Data Intelligence (HUMANE) Lab at Soongsil University studies data-centric language and multimodal AI technologies.
+Our vision is to develop AI systems that are deeply aware of social contexts, addressing pressing challenges such as misinformation and bias, and ultimately making a positive impact on society.
+We primarily present our research at top-tier international conferences on language and data intelligence, including ACL, EMNLP, and WWW.
 
-숭실대학교 인간 중심 언어 및 데이터 지능 연구실 (HUMANE Lab)은 데이터 중심의 언어 및 멀티모달 인공지능 기술을 연구합니다.
-허위 정보, 혐오 발언, 편향과 같은 사회 난제를 해결하는 것을 목표하며, 연구를 위해 고품질 데이터셋을 구축하고, 사람 중심의 AI 방법을 발전시키고, 실 세계 데이터를 활용합니다.
+숭실대학교 Human-Centered Language & Data Intelligence (HUMANE) Lab은 데이터 중심의 언어 및 멀티모달 인공지능(AI) 기술을 연구합니다.
+우리 연구실의 비전은 사회 맥락을 잘 이해하는 AI를 개발하여, 허위 정보, 편향 등 사회 난제를 해결하며, 궁극적으로 사회에 긍정적인 변화를 만들어내는 것입니다.
+Top-tier 언어 및 데이터 지능 국제학술대회(ACL, EMNLP, WWW)에 주로 논문을 발표하고 있습니다.
 
 ### 주요 연구 분야 
 
-- **AI for social good**: fact verification, stance detection, hate speech detection, etc.
-- **LLM**: retrieval-augmented generation, multimodal, alignment, etc.
+- **AI for Social Good**: fact verification, stance detection, bias mitigation, etc.
+- **Language Intelligence**: retrieval-augmented generation, post-training, vision and language, dataset curation, etc.
 
-### 성과
+### 핵심 성과
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
+- 세계 인공지능 팩트체킹 대회 입상: [2025(2위)](https://fever.ai/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
 - 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상 등
-- 경진대회 수상: 세계 인공지능 팩트체킹 대회 입상 - [2025(2위)](https://fever.ai/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
 
 ### 언론 보도
 

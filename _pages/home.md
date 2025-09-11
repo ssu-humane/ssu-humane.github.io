@@ -24,8 +24,8 @@ Top-tier 언어 및 데이터 지능 국제학술대회(ACL, EMNLP 등)에 주�
 ### 핵심 성과
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
-- 세계 인공지능 팩트체킹 대회 입상: [2025(2위)](https://fever.ai/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
-- 논문상 다수 수상: 한국인공지능학회 최우수논문상(2023) 등
+- 인공지능 팩트체킹 세계대회 입상: [2025(2위)](https://fever.ai/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
+- 논문상 수상: 한국인공지능학회 최우수논문상(2023) 등
 
 ### 언론 보도
 

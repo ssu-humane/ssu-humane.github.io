@@ -13,13 +13,12 @@ Our vision is to develop AI systems that are deeply aware of social contexts, ad
 We primarily present our research at top-tier international conferences on language and data intelligence, including ACL and EMNLP.
 
 숭실대학교 **인간 중심 언어 및 데이터 지능 (휴메인) 연구실**은 LLM 기반의 언어 및 멀티모달 인공지능(AI) 기술을 연구합니다.
-우리 연구실의 비전은 사회 맥락을 잘 이해하는 AI를 개발하여, 허위 정보, 편향 등 사회 난제를 해결하며, 궁극적으로 사회에 긍정적인 변화를 만들어내는 것입니다.
-Top-tier 언어 및 데이터 지능 국제학술대회(ACL, EMNLP 등)에 주로 논문을 발표하고 있습니다.
+우리 연구실의 비전은 사회 맥락을 잘 이해하는 AI를 개발하여, 허위 정보, 편향 등 사회 난제를 해결하며, 궁극적으로 사회에 긍정적인 변화를 만들어내는 것입니다. Top-tier 언어 및 데이터 지능 국제학술대회(ACL, EMNLP, WWW 등)에 주로 논문을 발표하고 있습니다.
 
 ### 주요 연구 분야 
 
 - **AI for Social Good**: fact verification, stance detection, bias mitigation, etc.
-- **Language Intelligence**: post-training, retrieval augmentation, alignment, domain adaptation, vision and language, dataset curation, etc.
+- **Language Intelligence**: retrieval augmentation, LLM as agents, NLP for vision, evaluation, dataset curation, etc.
 
 ### 핵심 성과
 

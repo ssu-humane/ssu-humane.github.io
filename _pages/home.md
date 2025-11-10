@@ -18,7 +18,7 @@ We primarily present our research at top-tier international conferences on langu
 ### 주요 연구 분야 
 
 - **AI for Social Good**: fact verification, stance detection, bias mitigation, etc.
-- **Language Intelligence**: retrieval augmentation, LLM as agents, NLP for vision, evaluation, dataset curation, etc.
+- **Language Intelligence**: fairness, factuality, LLM as agents, NLP for vision, evaluation, etc.
 
 ### 핵심 성과
 

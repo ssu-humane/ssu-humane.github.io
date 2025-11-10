@@ -1,8 +1,8 @@
 - title: "Journalism-Guided Agentic In-Context Learning for News Stance Detection"
   authors: Dahyun Lee, Jonghyeon Choi, Jiyoung Han, Kunwoo Park
   link:
-    url: https://arxiv.org/abs/2507.11049
-    display: "EMNLP, 2025 (to appear)."
+    url: https://aclanthology.org/2025.emnlp-main.778/
+    display: "EMNLP, 2025."
   highlight: 0
 
 - title: "Team HUMANE at AVeriTeC 2025: HerO 2 for Efficient Fact Verification"

@@ -21,7 +21,7 @@ Top-tier 언어 및 데이터 지능 국제학술대회에 연구 결과를 발�
 ### 주요 연구 분야 
 
 - **AI for Social Good**: fact checking, stance detection, bias mitigation, etc.
-- **Language Intelligence**: fairness, factuality, LLM as agents, NLP for vision, etc.
+- **Human-centered NLP**: fairness, factuality, LLM as agents, NLP for vision, etc.
 
 ### 핵심 성과
 

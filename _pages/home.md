@@ -27,8 +27,8 @@ Our work focuses on developing human-centered AI methods driven by real-world da
 
 ### 언론 보도
 
-- [팩트추적] 분열과 혐오도 맞춤 배달... '추천 알고리즘'의 덫 (YTN, 중앙)
-- 숭실대 AI융합학부 박건우 교수 연구팀, 자동화 팩트체킹 국제대회에서 2위 차지 ([한겨례](https://www.hani.co.kr/arti/economy/biznews/1170055.html) 등)
+- [팩트추적] 분열과 혐오도 맞춤 배달... '추천 알고리즘'의 덫 (YTN)
+- 숭실대 AI융합학부 박건우 교수 연구팀, 자동화 팩트체킹 국제대회에서 2위 차지 ([한겨례](https://www.hani.co.kr/arti/economy/biznews/1170055.html))
 - 카카오, '공공선 포럼'서 사회 문제 해결 위한 플랫폼 기업 역할 강조 ([뉴시스](https://www.newsis.com/view/NISX20240627_0002789101))
 - 튜닙-숭실대 공동 연구팀, EMNLP 2023 파인딩스에 논문 게재 ([IT Daily](http://www.itdaily.kr/news/articleView.html?idxno=217558))
 - 숭실대 윤예준 학부생, 2023 한국인공지능학회 하계학술대회 현대자동차 최우수논문상 수상 ([조선일보](https://news.chosun.com/pan/site/data/html_dir/2023/08/03/2023080300950.html))

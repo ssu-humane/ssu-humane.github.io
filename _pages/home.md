@@ -9,7 +9,7 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
 **HUMANE Lab (Human-centered Language and Data Intelligence Lab)** at Soongsil University studies language and multimodal AI technologies grounded in large language models (LLMs).
-Our work focuses on developing applied AI technologies driven by real-world data, addressing societal challenges such as misinformation and bias. 
+Our work focuses on developing applied AI technologies driven by real-world data to address societal challenges such as misinformation and bias.
 By identifying and remedying the limitations of current methods, we aim to develop AI technologies that are trustworthy and fair.
 We aim to publish our research at top-tier international conferences on language and data intelligence.
 

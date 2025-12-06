@@ -16,8 +16,9 @@ Our work focuses on developing human-centered AI methods driven by real-world da
 
 ### 주요 연구 분야 
 
-- **AI for Social Good**: fact checking, stance detection, bias mitigation, etc.
-- **Human-centered NLP**: fairness, factuality, LLM as agents, NLP for vision, etc.
+- **Large Language Models**: Retrieval Augmentation, LLM as Agents.
+- **AI for Social Good**: Fact-Checking, Bias Detection.
+- **Human-Centered NLP**: Fairness, Factuality.
 
 ### 핵심 성과
 

@@ -1,3 +1,10 @@
+- title: "VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration"
+  authors: Jaeyoon Jung, Yejun Yoon, Seunghyun Yoon, Kunwoo Park
+  link:
+    url: http://arxiv.org/abs/2602.04587
+    display: "to appear at the EACL Workshop (FEVER), 2026."
+  highlight: 0
+
 - title: "Journalism-Guided Agentic In-Context Learning for News Stance Detection"
   authors: Dahyun Lee, Jonghyeon Choi, Jiyoung Han, Kunwoo Park
   link:

@@ -16,9 +16,9 @@ Our work aims to address societal challenges, such as misinformation and bias, t
 
 ### 주요 연구 분야 
 
-- **Large (Vision) Language Models**
-- **AI for Social Good**
-- **Human-Centered AI**
+- **Large (Vision) Language Models**: LLMs as Agents, Retrieval Augmentation
+- **AI for Social Good**: Fact-Checking, Stance Detection
+- **Human-Centered AI**: Fairness, Factuality
 
 ### 핵심 성과
 

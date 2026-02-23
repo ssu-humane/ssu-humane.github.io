@@ -16,7 +16,7 @@ Our work aims to address societal challenges, such as misinformation and bias, t
 
 ### 주요 연구 분야 
 
-- **Large Language Models**: LLMs as Agents, Retrieval Augmentation, Synthetic Data Generation
+- **Large Language Models**: LLMs as Agents, Retrieval Augmentation
 - **AI for Social Good**: Fact-Checking, Stance Detection, Hate Speech Detection
 - **Human-Centered AI**: Fairness, Factuality
 

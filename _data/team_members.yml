@@ -1,64 +1,51 @@
 - name: 박 건우 (Kunwoo Park) &#x1F60E;
   photo: kunwoo.jpg
-  info: Principal investigator [[more info]](https://bywords.github.io)
+  info: Principal Investigator [[more info]](https://bywords.github.io)
   email: kunwoo.park@ssu.ac.kr
   number_interest: 0
 
-- name: 윤 예준 (Yejun Yoon) 
-  photo: yejun.jpg
-  info: Master student 
-  email: yeayen789@gmail.com
-  number_interest: 1
-  interest1: 지능형반도체학과
-
 - name: 이 다현 (Dahyun Lee)
   photo: dahyun.jpg
-  info: Master student (랩장)
+  info: Master Student (랩장)
   email: dahyunma@gmail.com
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
   
 - name: 최 종현 (Jong Hyeon Choi)
   photo: jonghyeon.jpg
-  info: Master student
+  info: Master Student
   email: jhyeonc01@gmail.com
   number_interest: 1
   interest1: 지능형반도체학과
 
 - name: 김 태균 (Taegyun Kim)
   photo: Taegyun.jpg
-  info: Master student
+  info: Master Student
   email: tgkim980605@gmail.com
   number_interest: 1
   interest1: 지능형반도체학과
 
 - name: 고 경빈 (Kyungbin Ko)
   photo: Kyungbin.jpg
-  info: Master student
+  info: Master Student
   email: bin990616@gmail.com
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
 
-- name: 정 재윤 (Jaeyoon Jung)
-  photo: Jaeyoon.jpg
-  info: Undergraduate intern
-  email: lastdefiance20@gmail.com
-  number_interest: 0
-
-- name: 류 승희 (Seunghee Ryu)
-  photo: seunghee.jpg
-  info: Undergraduate intern
-  email: rugkqjem@gmail.com
-  number_interest: 0
-
 - name: 박 수빈 (Subin Park)
   photo: rock.jpg
-  info: Undergraduate intern
+  info: Undergraduate Researcher
   email: psubin0512@gmail.com
   number_interest: 0
 
-- name: 김 세한 (Sehan Kim)
-  photo: sehan.jpg
-  info: Undergraduate intern
-  email: luckkhj1234@gmail.com
+- name: 윤 예준 (Yejun Yoon) 
+  photo: yejun.jpg
+  info: Affiliate Researcher
+  email: yeayen789@gmail.com
+  number_interest: 0
+  
+- name: 정 재윤 (Jaeyoon Jung)
+  photo: Jaeyoon.jpg
+  info: Affiliate Researcher
+  email: lastdefiance20@gmail.com
   number_interest: 0

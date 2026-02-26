@@ -14,20 +14,20 @@ Our work aims to address societal challenges, such as misinformation and bias, t
 숭실대학교 **사람 중심 언어 및 데이터 지능(휴메인) 연구실**은 LLM 기반의 언어 및 멀티모달 인공지능(AI) 기술을 연구합니다.
 실제 데이터에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표합니다.
 
-### Research Areas 
+### **Research Areas** 
 
 We focus on LLMs and generative AI, with particular attention to the human-centered challenges that arise in their real-world application. Our areas of interest include:
 - AI and LLM agents
 - Computational social science, cultural analytics, and NLP for social good
 - Ethics, bias, and fairness
 
-### Key Achievements
+### **Key Achievements**
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
 - 인공지능 팩트체킹 세계대회 입상: [2026(1위)](https://fever.ai/task.html), [2025(2위)](https://fever.ai/2025/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
 - 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상, 한글 및 한국어 정보처리 학술대회 우수발표논문상 등
 
-### Media Coverage
+### **Media Coverage**
 
 - 분열과 혐오도 맞춤 배달... '추천 알고리즘'의 덫 ([YTN](https://youtu.be/ebvhxUBAKtk?si=KLPuU6ZZ2hrBTSoi&t=839))
 - 숭실대 AI융합학부 박건우 교수 연구팀, 자동화 팩트체킹 국제대회에서 2위 차지 ([한겨례](https://www.hani.co.kr/arti/economy/biznews/1170055.html))
@@ -35,7 +35,7 @@ We focus on LLMs and generative AI, with particular attention to the human-cente
 - \[Q플러스\] AI가 기사 쓰고 팩트체크까지...기자는 사라질까? ([KBS](https://www.youtube.com/watch?v=Wdpxrgd5XfI&t=409s))
 등 다수.
 
-### Contact
+### **Contact**
 
 Kunwoo Park / 박 건우 (kunwoo.park at ssu dot ac dot kr)
 

@@ -29,6 +29,7 @@ We focus on LLMs and generative AI, with particular attention to the human-cente
 
 ### **Media Coverage**
 
+- 숭실대 AI대학 박건우 교수팀, EACL 2026 FEVER 워크숍 경진대회 1위 ([중앙일보](https://www.joongang.co.kr/article/25417916))
 - 분열과 혐오도 맞춤 배달... '추천 알고리즘'의 덫 ([YTN](https://youtu.be/ebvhxUBAKtk?si=KLPuU6ZZ2hrBTSoi&t=839))
 - 숭실대 AI융합학부 박건우 교수 연구팀, 자동화 팩트체킹 국제대회에서 2위 차지 ([한겨례](https://www.hani.co.kr/arti/economy/biznews/1170055.html))
 - 숭실대 윤예준 학부생, 2023 한국인공지능학회 하계학술대회 현대자동차 최우수논문상 수상 ([조선일보](https://news.chosun.com/pan/site/data/html_dir/2023/08/03/2023080300950.html))

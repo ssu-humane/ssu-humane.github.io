@@ -16,10 +16,12 @@ Our work aims to address societal challenges, such as misinformation and bias, t
 
 ### **Research Areas** 
 
-We focus on LLMs and generative AI, with particular attention to the human-centered challenges that arise in their real-world application. Our areas of interest include:
-- AI and LLM agents
-- Computational social science, cultural analytics, and NLP for social good
-- Ethics, bias, and fairness
+We focus on LLMs and LVLMs, with particular attention to the human-centered challenges that arise in their real-world application. Our areas of interest include:
+- Computational Social Science and Cultural Analytics
+- Ethics, Bias, and Fairness
+- LLM agents
+- NLP for social good
+- Resource and Evaluation
 
 ### **Key Achievements**
 

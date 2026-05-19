@@ -16,7 +16,7 @@ Our work aims to address societal challenges, such as misinformation and bias, t
 
 ### **Research Areas** 
 
-We focus on LLMs and LVLMs, with particular attention to the human-centered challenges that arise in their real-world application. Our areas of interest include:
+We focus on LLMs, with particular attention to the human-centered challenges that arise in their real-world application. Our areas of interest include:
 - Computational Social Science and Cultural Analytics
 - Ethics, Bias, and Fairness
 - LLM agents

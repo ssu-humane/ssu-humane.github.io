@@ -57,5 +57,5 @@ permalink: /team/
 - 정 재윤, BS, 2026.2 (Currently at MAUM.AI)
 - 송 선영, MS, 2024.8 (Currently at Korea Telecom)
 - 정 현우, BS
-- 박 채원, BS, 2024.2
+- 박 채원, BS, 2024.2 (Currently at Bucketplace)
 

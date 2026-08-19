@@ -12,11 +12,11 @@ permalink: /
 Our research aims to address societal challenges, such as misinformation and bias, through human-centered AI technologies grounded in real-world data and domain knowledge.
 
 숭실대학교 **사람 중심 언어 및 데이터 지능(휴메인) 연구실**은 거대 언어 모델, 시각 언어 모델, 에이전트 시스템 등 언어 중심 AI 기술을 연구합니다.
-실제 데이터 및 도메인 지식에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표로 합니다.
+실제 데이터와 도메인 지식에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표로 합니다.
 
 ### **Research Areas** 
 
-We study language-centered AI, with particular attention to the human-centered challenges that arise in its real-world application. Our areas of interest include:
+We study language-centered AI, with particular attention to the human-centered challenges that arise in its real-world applications. Our areas of interest include:
 - Computational Social Science / NLP for Social Good
 - Ethics, Bias, and Fairness / AI Safety
 - Multi-Agent Systems / Agentic AI

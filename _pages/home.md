@@ -16,7 +16,7 @@ Our work aims to address societal challenges, such as misinformation and bias, t
 
 ### **Research Areas** 
 
-We focus on LLMs, with particular attention to the human-centered challenges that arise in their real-world application. Our areas of interest include:
+We study language-centered AI, with particular attention to the human-centered challenges that arise in its real-world application. Our areas of interest include:
 - Computational Social Science / NLP for Social Good
 - Ethics, Bias, and Fairness / AI Safety
 - Multi-Agent Systems / Agentic AI

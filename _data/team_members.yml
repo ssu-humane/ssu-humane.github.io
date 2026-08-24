@@ -6,14 +6,14 @@
 
 - name: 이 다현 (Dahyun Lee)
   photo: dahyun.jpg
-  info: Master Student (랩장)
+  info: Master Student 
   email: dahyunma@gmail.com
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
   
 - name: 최 종현 (Jong Hyeon Choi)
   photo: jonghyeon.jpg
-  info: Master Student
+  info: Master Student (랩장)
   email: jhyeonc01@gmail.com
   number_interest: 1
   interest1: 지능형반도체학과
@@ -31,34 +31,3 @@
   email: bin990616@gmail.com
   number_interest: 1
   interest1: 메타버스문화컨텐츠학과
-
-- name: 박 수빈 (Subin Park)
-  photo: subin.jpg
-  info: Undergraduate Researcher
-  email: psubin0512@gmail.com
-  number_interest: 0
-
-- name: 김 진우 (Kim Jinwoo)
-  photo: jinwoo.jpg
-  info: Undergraduate Intern
-  email: rlawlsdn0119@gmail.com
-  number_interest: 0
-
-- name: 오 정민 (Oh Jungmin)
-  photo: jungmin.jpg
-  info: Undergraduate Intern
-  email: ojm020301@gmail.com
-  number_interest: 0
-
-- name: 이 수민 (Lee soomin)
-  photo: soomin.jpg
-  info: Undergraduate Intern
-  email: soominlee726@gmail.com
-  number_interest: 0
-
-- name: 임 채은 (Lim chaeeun)
-  photo: chaeeun.jpg
-  info: Undergraduate Intern
-  email: 0716chaeeun@gmail.com
-  number_interest: 0
-

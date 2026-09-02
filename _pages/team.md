@@ -53,6 +53,7 @@ permalink: /team/
 
 ## Alumni
 
+- 이 다현, MS, 2026.8
 - 윤 예준, MS, 2026.2
 - 정 재윤, BS, 2026.2 (Currently at MAUM.AI)
 - 송 선영, MS, 2024.8 (Currently at Korea Telecom)

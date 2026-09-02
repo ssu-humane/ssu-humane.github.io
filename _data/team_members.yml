@@ -4,30 +4,27 @@
   email: kunwoo.park@ssu.ac.kr
   number_interest: 0
 
-- name: 이 다현 (Dahyun Lee)
-  photo: dahyun.jpg
-  info: Master Student 
-  email: dahyunma@gmail.com
-  number_interest: 1
-  interest1: 메타버스문화컨텐츠학과
-  
 - name: 최 종현 (Jong Hyeon Choi)
   photo: jonghyeon.jpg
   info: Master Student (랩장)
   email: jhyeonc01@gmail.com
-  number_interest: 1
-  interest1: 지능형반도체학과
-
+  number_interest: 0
+  
 - name: 김 태균 (Taegyun Kim)
   photo: Taegyun.jpg
   info: Master Student
   email: tgkim980605@gmail.com
-  number_interest: 1
-  interest1: 지능형반도체학과
-
+  number_interest: 0
+  
 - name: 고 경빈 (Kyungbin Ko)
   photo: Kyungbin.jpg
   info: Master Student
   email: bin990616@gmail.com
-  number_interest: 1
-  interest1: 메타버스문화컨텐츠학과
+  number_interest: 0
+
+- name: 이 다현 (Dahyun Lee)
+  photo: dahyun.jpg
+  info: Affiliate Researcher
+  email: dahyunma@gmail.com
+  number_interest: 0
+  

@@ -1,7 +1,7 @@
 - title: "Visual Framing for News Stance Detection via Generated Images"
   authors: Dahyun Lee, Jiyoung Han, Kunwoo Park
   link:
-    url: https://ssu-humane.github.io/publications/
+    url: https://arxiv.org/abs/2609.00685
     display: "EMNLP, 2026. (to appear)"
   highlight: 0
 
@@ -16,7 +16,7 @@
   authors: Jaeyoon Jung, Yejun Yoon, Kunwoo Park
   link:
     url: https://arxiv.org/abs/2604.04692
-    display: "preprint, 2026."
+    display: "under review, 2026."
   highlight: 0
 
 - title: "VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration"

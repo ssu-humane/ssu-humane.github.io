@@ -26,7 +26,7 @@ We study language-centered AI, with particular attention to the human-centered c
 
 - 국제 저명 학술대회 논문 발표: ACL, EMNLP 등
 - 인공지능 팩트체킹 세계대회 입상: [2026(1위)](https://fever.ai/task.html), [2025(2위)](https://fever.ai/2025/task.html), [2024(2위)](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655)
-- 논문상 수상: 한국인공지능학회 최우수논문상, 한국정보과학회 우수논문상, 한글 및 한국어 정보처리 학술대회 우수발표논문상 등
+- 논문상 수상: 한국인공지능학회, 한국정보과학회, 한글 및 한국어 정보처리 학술대회 등
 
 ### **Media Coverage**
 

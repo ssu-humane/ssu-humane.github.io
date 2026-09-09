@@ -1,3 +1,10 @@
+- title: "Is a Picture Worth a Thousand Words? Adaptive Multimodal Fact-Checking with Visual Evidence Necessity"
+  authors: Jaeyoon Jung, Yejun Yoon, Kunwoo Park
+  link:
+    url: https://arxiv.org/abs/2604.04692
+    display: "AACL-IJCNLP, 2026. (to appear)"
+  highlight: 0
+
 - title: "Visual Framing for News Stance Detection via Image Generation"
   authors: Dahyun Lee, Jiyoung Han, Kunwoo Park
   link:
@@ -10,13 +17,6 @@
   link:
     url: https://arxiv.org/abs/2609.04598
     display: "EMNLP, 2026. (to appear)"
-  highlight: 0
-
-- title: "Is a Picture Worth a Thousand Words? Adaptive Multimodal Fact-Checking with Visual Evidence Necessity"
-  authors: Jaeyoon Jung, Yejun Yoon, Kunwoo Park
-  link:
-    url: https://arxiv.org/abs/2604.04692
-    display: "under review, 2026."
   highlight: 0
 
 - title: "VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration"

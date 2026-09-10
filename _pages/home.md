@@ -8,19 +8,19 @@ permalink: /
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/202407.jpg" style="max-width:100%; height:auto;"/>
 
-**HUMANE Lab (Human-centered Language and Data Intelligence Lab)** at Soongsil University conducts research on language-centered AI, including large language models, vision-language models, and agentic systems.
-Our research aims to address societal challenges, such as misinformation and bias, through human-centered AI technologies grounded in real-world data and domain knowledge.
+**HUMANE Lab (Human-centered Language and Data Intelligence Lab)** at Soongsil University conducts research on language-centered AI technologies, including large language models, vision-language models, and agentic systems.
+Our research focuses particularly on addressing human-centered challenges that arise in real-world applications of AI.
 
-숭실대학교 **사람 중심 언어 및 데이터 지능(휴메인) 연구실**은 거대 언어 모델, 시각 언어 모델, 에이전트 시스템 등 언어 중심 AI 기술을 연구합니다.
-실제 데이터와 도메인 지식에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표로 합니다.
+숭실대학교 사람 중심 언어 및 데이터 지능(휴메인) 연구실​은 거대 언어 모델, 시각 언어 모델, 에이전트 시스템 등 언어 중심 AI 기술을 연구합니다. 
+특히, 이러한 기술의 실세계 응용에서 나타나는 사람 중심의 난제를 해결하는 데 관심을 두고 있습니다.
 
 ### **Research Areas** 
 
-We study language-centered AI, with particular attention to the human-centered challenges that arise in its real-world applications. Our areas of interest include:
-- Computational Social Science / NLP for Social Good
-- Ethics, Bias, and Fairness / AI Safety
-- Multi-Agent Systems / Agentic AI
-- Resources and Evaluation
+We aim to develop human-centered AI technologies grounded in real-world data and domain knowledge to address societal challenges such as misinformation and bias (**NLP for Social Good**). 
+We are also interested in identifying and mitigating biases and risks in AI-generated content (**AI Ethics and Safety**), as well as building datasets and developing evaluation methodologies to support these efforts (**Resources and Evaluation**).
+
+실제 데이터와 도메인 지식에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표로 합니다(**NLP for Social Good**). 
+또한, AI가 생성한 콘텐츠에서 발생할 수 있는 편향과 위험성을 발견하고 개선하는 연구(**AI Ethics and Safety**)와 이를 위한 데이터셋 구축 및 평가 방법 개발(**Resources and Evaluation**)에도 관심을 두고 있습니다.
 
 ### **Key Achievements**
 

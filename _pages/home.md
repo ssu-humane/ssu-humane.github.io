@@ -16,11 +16,15 @@ Our research focuses particularly on addressing human-centered challenges that a
 
 ### **Research Areas** 
 
-We aim to develop human-centered AI technologies grounded in real-world data and domain knowledge to address societal challenges such as misinformation and bias (**NLP for Social Good**). 
-We are also interested in identifying and mitigating biases and risks in AI-generated content (**AI Ethics and Safety**), as well as building datasets and developing evaluation methodologies to support these efforts (**Resources and Evaluation**).
+- NLP for Social Good
+- AI Ethics and Safety
+- Resources and Evaluation
 
-실제 데이터와 도메인 지식에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표로 합니다(**NLP for Social Good**). 
-또한, AI가 생성한 콘텐츠에서 발생할 수 있는 편향과 위험성을 발견하고 개선하는 연구(**AI Ethics and Safety**)와 이를 위한 데이터셋 구축 및 평가 방법 개발(**Resources and Evaluation**)에도 관심을 두고 있습니다.
+We aim to develop human-centered AI technologies grounded in real-world data and domain knowledge to address societal challenges such as misinformation and bias. 
+We are also interested in identifying and mitigating biases and risks in AI-generated content, as well as building datasets and developing evaluation methodologies to support these efforts.
+
+실제 데이터와 도메인 지식에 기반한 사람 중심 AI 기술을 연구하여 허위 정보와 편향 등 사회적 난제를 해결하는 것을 목표로 합니다. 
+또한, AI가 생성한 콘텐츠에서 발생할 수 있는 편향과 위험성을 발견하고 개선하는 연구와 이를 위한 데이터셋 구축 및 평가 방법 개발에도 관심을 두고 있습니다.
 
 ### **Key Achievements**
 

@@ -24,8 +24,10 @@ permalink: /vacancies
 
 ### 학부 연구생
 
-- 석·박사 지원을 위해 학부 연구생으로 참여하고자 하는 경우 메일로 연락 주세요.
-- 과거 모집 요강: **[[링크]](https://ssu-humane.github.io/downloads/202505_HUMANE_openings.pdf)**
+- (2026/09/27 마감) 학부 인턴을 모집하고 있습니다: [[세부 공고]](https://docs.google.com/document/d/1ZQtiStQUN5gmdLn-Mr4zK2ge2qKWJOZWjlKhUsY80zM/edit?usp=sharing)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/20260915_opening.jpg" style="max-width:100%; height:auto;"/>
+
 
 ## Frequently asked questions
 

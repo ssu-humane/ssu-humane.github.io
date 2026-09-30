@@ -53,7 +53,7 @@ permalink: /team/
 
 ## Alumni
 
-- 이 다현 (MS), 2026.8.
+- 이 다현 (MS), 2026.8, currently at NAVER Cloud (Intern).
 - 윤 예준 (MS), 2026.2.
 - 정 재윤 (BS), 2026.2, currently at MAUM.AI.
 - 정 현우 (BS), 2026.2.
